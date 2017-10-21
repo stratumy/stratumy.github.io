@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Stratumy</title>
+  
+  <subtitle>Stratumy Blog(贾晓燕的博客)</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2017-10-17T15:20:28.147Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>JiaXiaoYan</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>经济数学 微积分（一）</title>
+    <link href="http://yoursite.com/2017/10/17/%E7%BB%8F%E6%B5%8E%E6%95%B0%E5%AD%A6-%E5%BE%AE%E7%A7%AF%E5%88%86%EF%BC%88%E4%B8%80%EF%BC%89-1/"/>
+    <id>http://yoursite.com/2017/10/17/经济数学-微积分（一）-1/</id>
+    <published>2017-10-17T15:20:28.000Z</published>
+    <updated>2017-10-17T15:20:28.147Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>经济数学 微积分（一）</title>
+    <link href="http://yoursite.com/2017/10/13/%E7%BB%8F%E6%B5%8E%E6%95%B0%E5%AD%A6-%E5%BE%AE%E7%A7%AF%E5%88%86%EF%BC%88%E4%B8%80%EF%BC%89/"/>
+    <id>http://yoursite.com/2017/10/13/经济数学-微积分（一）/</id>
+    <published>2017-10-13T13:40:55.000Z</published>
+    <updated>2017-10-21T09:33:11.472Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="集合"><a href="#集合" class="headerlink" title="集合"></a>集合</h2><ul><li><p>有限集，无限集，空集</p></li><li><p>表示方法：列举法、描述法</p></li><li><p>数集字母表示:$N$ 自然数集  $Z$ 整数集  $Q$ 有理数集  $R$ 实数集  $C$ 复数集在表示数集的字母右上角添“+”“-”等上标，来表示该数集的几个特定子集。</p></li><li><p>基本运算：并、交<br>、差（A\B)    交换、结合、分配、对偶律</p></li><li><p>全集，补集</p></li><li><p>区间、邻域</p></li></ul><h2 id="映射"><a href="#映射" class="headerlink" title="映射"></a>映射</h2><ul><li><p>定义、像、原像、定义域、值域； 单、满、双射</p></li><li><p>逆映射（双射）、复合映射$(复合有顺序)$</p></li></ul><h2 id="函数"><a href="#函数" class="headerlink" title="函数"></a>函数</h2><ul><li><p>自变量、因变量、奇偶性、周期性、单调性、有界性</p></li><li><p>$分段函数、复合函数$(中间变量)$、<strong>反函数</strong>、基本初等函数、初等函数$</p></li><li><p>基本初等函数：反对幂指三</p></li></ul><h2 id="经济学中的常用函数：需求、供给函数、市场均衡-（供需平衡点，均衡价格、均衡数量）"><a href="#经济学中的常用函数：需求、供给函数、市场均衡-（供需平衡点，均衡价格、均衡数量）" class="headerlink" title="经济学中的常用函数：需求、供给函数、市场均衡$（供需平衡点，均衡价格、均衡数量）$"></a><strong>经济学中的常用函数</strong>：需求、供给函数、市场均衡$（供需平衡点，均衡价格、均衡数量）$</h2><ul><li><p>总成本$C(Q)$、总收益$R(Q)$、总利润$L(Q)$函数</p></li><li><p>总成本由固定成本$C0$和可变成本$C1$构成</p></li></ul><p><img src="http://ouwsyml4w.bkt.clouddn.com/timg.jpg" alt="GitHub set up"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;集合&quot;&gt;&lt;a href=&quot;#集合&quot; class=&quot;headerlink&quot; title=&quot;集合&quot;&gt;&lt;/a&gt;集合&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;有限集，无限集，空集&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;表示方法：列举法、描述法&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;数集字
+      
+    
+    </summary>
+    
+      <category term="Math" scheme="http://yoursite.com/categories/Math/"/>
+    
+    
+      <category term="Math" scheme="http://yoursite.com/tags/Math/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>呵呵呵呵</title>
+    <link href="http://yoursite.com/2017/10/07/%E5%91%B5%E5%91%B5%E5%91%B5%E5%91%B5/"/>
+    <id>http://yoursite.com/2017/10/07/呵呵呵呵/</id>
+    <published>2017-10-07T11:09:59.000Z</published>
+    <updated>2017-10-07T11:16:35.224Z</updated>
+    
+    <content type="html"><![CDATA[<p>$1$ </p><p>$2$ $3$ $4$ $5$ $6$ $7$ $8$ $9$ $10$ $0$</p><p>$A$ $B$ $C$ $D$ $E$ $F$ $G$ $H$ $I$ $G$ $K$ $L$ $M$</p><p>$N$ $O$ $P$ $Q$ $R$ $S$ $T$ $U$ $V$ $W$ $X$ $Y$ $Z$</p><p>$a$</p><p>$b$</p><p>$c$ $d$ $e$ $f$ $g$ $h$ $i$ $j$ $k$ $l$ $m$ $n$</p><p>$o$ $p$ $q$ $r$ $s$ $t$ $u$ $v$ $w$ $x$ $y$ $z$</p><p>$ 不可不 $  </p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;$1$ &lt;/p&gt;
+&lt;p&gt;$2$ $3$ $4$ $5$ $6$ $7$ $8$ $9$ $10$ $0$&lt;/p&gt;
+&lt;p&gt;$A$ $B$ $C$ $D$ $E$ $F$ $G$ $H$ $I$ $G$ $K$ $L$ $M$&lt;/p&gt;
+&lt;p&gt;$N$ $O$ $P$ $Q$ $R
+      
+    
+    </summary>
+    
+      <category term="Mood" scheme="http://yoursite.com/categories/Mood/"/>
+    
+    
+      <category term="Mood" scheme="http://yoursite.com/tags/Mood/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>读《刻意练习》（一）前言</title>
+    <link href="http://yoursite.com/2017/10/06/%E8%AF%BB%E3%80%8A%E5%88%BB%E6%84%8F%E7%BB%83%E4%B9%A0%E3%80%8B%EF%BC%88%E4%B8%80%EF%BC%89%E5%BC%95%E8%A8%80/"/>
+    <id>http://yoursite.com/2017/10/06/读《刻意练习》（一）引言/</id>
+    <published>2017-10-06T15:19:42.000Z</published>
+    <updated>2017-10-07T05:10:23.113Z</updated>
+    
+    <content type="html"><![CDATA[<p>刚开始读《刻意练习》这本书，就先把前言总结一下吧，是从结构和内容两方面总结的：</p><h2 id="结构"><a href="#结构" class="headerlink" title="结构"></a>结构</h2><ul><li><p>这本书主要是讲刻意练习，前言中先从练习说起，对练习进行了解读，将练习分为<strong>天真练习</strong>和<strong>正确练习</strong>。</p></li><li><p>而后又以练习引出了<strong>一万小时定律</strong>因为这个定律对天真还是正确的练习没有做明确，而仅仅以一万这个时间的量来指导人们进行联系，与本书的刻意形成了一定程度的对比，所以我觉得由此其实从另一个方面也引出了 刻意 这个话题。</p></li></ul><p>对一万小时定律反驳，从语文的角度分析，我觉得他是从正面和反面两个方面来反驳的：</p><blockquote><ul><li><p>不同专业领域所需时间不同。</p></li><li><p>成功与练习时间不完全成正比。</p></li><li><p>练习成果不与时间呈正相关。</p></li><li><p>最后以“沙堆悖论”从反面驳斥了一万小时定律（可变边界）。</p></li></ul></blockquote><ul><li><p>让人稍微了解到刻意练习后，又提出了刻意练习的本质，从而引出一个概念：长时记忆。到这里就比较套路一点了，基本按照是什么，为什么，怎么做的顺序来写的。</p></li><li><p>最后提到的隐性知识，我觉得是对刻意练习正确性一个抽象性的补充，其提出的情境学习我觉得就是对刻意练习的一个方法的补充，也就是对怎么做的一个<strong>补充</strong>。</p></li></ul><h2 id="内容"><a href="#内容" class="headerlink" title="内容"></a>内容</h2><p>总的来说就是简要介绍本书的内容，目的，引起读者兴趣。我主要看到了以下几个概念：</p><ul><li><p>大脑的适应能力</p></li><li><p>长时记忆以及方法·培养方向</p></li><li><p>认知复杂性高低</p></li><li><p><strong>创造潜力</strong></p></li><li><p>情境学习</p></li></ul><hr><p><img src="http://ouwsyml4w.bkt.clouddn.com/IMG_20171006_161748_HDR.jpg" alt="GitHub set up"></p><hr><p><img src="http://ouwsyml4w.bkt.clouddn.com/IMG_20171006_161526_HDR.jpg" alt="GitHub set up"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;刚开始读《刻意练习》这本书，就先把前言总结一下吧，是从结构和内容两方面总结的：&lt;/p&gt;
+&lt;h2 id=&quot;结构&quot;&gt;&lt;a href=&quot;#结构&quot; class=&quot;headerlink&quot; title=&quot;结构&quot;&gt;&lt;/a&gt;结构&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;这本书主要是讲刻意练习，前言
+      
+    
+    </summary>
+    
+      <category term="Read" scheme="http://yoursite.com/categories/Read/"/>
+    
+    
+      <category term="Read" scheme="http://yoursite.com/tags/Read/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>new test1</title>
+    <link href="http://yoursite.com/2017/09/26/new-test1/"/>
+    <id>http://yoursite.com/2017/09/26/new-test1/</id>
+    <published>2017-09-26T14:04:53.000Z</published>
+    <updated>2017-09-26T14:08:38.054Z</updated>
+    
+    <content type="html"><![CDATA[<p>$\alpha $</p><p>$\varepsilon$</p><p>$\iota$</p><p>$\xi$</p><p>$\varrho$</p><p>$\phi$</p><p>$\Gamma$</p><p>$\Pi$</p><p>$\Omega $</p><p>$\beta$</p><p>$\zeta$</p><p>$\kappa$</p><p>$\sigma$</p><p>$\varphi$</p><p>$\Delta$</p><p>$\Sigma$</p><p>$\gamma$</p><p>$\eta$</p><p>$\lambda$</p><p>$\pi$</p><p>$\varsigma$</p><p>$\chi$</p><p>$\Theta$</p><p>$\Upsilon$</p><p>$\delta$</p><p>$\theta$</p><p>$\mu$</p><p>$\varpi$</p><p>$\tau$</p><p>$\psi$</p><p>$\Lambda$</p><p>$\Phi$</p><p>$\epsilon$</p><p>$\vartheta$</p><p>$\nu$</p><p>$\rho$</p><p>$\upsilon$</p><p>$\omega$</p><p>$\Xi$</p><p>$\Psi$</p><p>$1$ </p><p>$2$ $3$ $4$ $5$ $6$ $7$ $8$ $9$ $10$ $0$</p><p>$A$ $B$ $C$ $D$ $E$ $F$ $G$ $H$ $I$ $G$ $K$ $L$ $M$</p><p>$N$ $O$ $P$ $Q$ $R$ $S$ $T$ $U$ $V$ $W$ $X$ $Y$ $Z$</p><p>$a$</p><p>$b$</p><p>$c$ $d$ $e$ $f$ $g$ $h$ $i$ $j$ $k$ $l$ $m$ $n$</p><p>$o$ $p$ $q$ $r$ $s$ $t$ $u$ $v$ $w$ $x$ $y$ $z$</p><p>$ 不可不 $  </p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;$\alpha $&lt;/p&gt;
+&lt;p&gt;$\varepsilon$&lt;/p&gt;
+&lt;p&gt;$\iota$&lt;/p&gt;
+&lt;p&gt;$\xi$&lt;/p&gt;
+&lt;p&gt;$\varrho$&lt;/p&gt;
+&lt;p&gt;$\phi$&lt;/p&gt;
+&lt;p&gt;$\Gamma$&lt;/p&gt;
+&lt;p&gt;$\Pi$&lt;/p&gt;
+&lt;p&gt;$\Omega $&lt;/
+      
+    
+    </summary>
+    
+      <category term="Mood" scheme="http://yoursite.com/categories/Mood/"/>
+    
+    
+      <category term="Mood" scheme="http://yoursite.com/tags/Mood/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>像花一样绚烂</title>
+    <link href="http://yoursite.com/2017/09/21/%E5%83%8F%E8%8A%B1%E4%B8%80%E6%A0%B7%E7%BB%9A%E7%83%82/"/>
+    <id>http://yoursite.com/2017/09/21/像花一样绚烂/</id>
+    <published>2017-09-21T14:17:36.000Z</published>
+    <updated>2017-09-23T15:35:28.614Z</updated>
+    
+    <content type="html"><![CDATA[<p>军训刚刚开始，真心是很累的，中午由于噪音睡不着，躺在床上歇了一会后就去取快递了。拖着疲惫的身体，打着雨伞，一步步试着走向百米微。因为昨天晚上淋着雨，跟着高德找它，但是最终还是没找到的我，所以那时确实只能是一步步地尝试性地走了。也不像晚上那么不敢走，想着反正也不知道怎么走就随便走吧。</p><p>清新靓丽本就应该是青春的颜色。取到快递后，离集合时间还早（想逛一逛校园多记点路），我就自己心怀诗意地撑着伞走在林荫大道上，看着这条道上稀少的行人和清新自然的美景莫名的一种惬意感涌上心头，身体也不那么疲惫了。散步，观景，沐风，观雨，赏心，悦目。两个学长骑车路过时爽朗地笑着，嘴里夸赞着这条路的好。他们从我身边经过时那份自然的欢快爽朗与朝气瞬间即感染了我。眼前的一切仿佛都变的更加明朗美好起来了。</p><p>填充色是那么的耀眼。经过击剑中心的时候，透过玻璃窗看到很多的奖杯矗立在架子上，早就听说我们学校的击剑队很牛X，今日一见果然名不虚传啊（说话能力有限，只能用这么老套的话来形容了O(∩_∩)O）。看到那么多奖杯的时候其实心里只想到了一句话：好厉害啊。然后就是一副看呆了的表情，想趁中午没人进去参观一下，看到擦地板的阿姨后，因为怕被赶出来我果断地走了（对，就是这么果断，哈哈   毕竟刚来的新生还是不要这么莽撞，主要还是有过这方面的教训）。但是奖杯真的是很耀眼，感觉有了这些奖杯后，那些击剑运动员应该很有成就感吧，希望我的青春也能像他们一样手握奖杯，外人面前光鲜，自己心里踏实高兴（偷笑）。</p><p>绿草茵茵，绿树盖顶，小花点缀其中，青春朝气作为营养，这方天地，尽管有限，却很值得体验一回，作为回忆收藏。</p><p>真是，一路上感觉草都生长得像花一样绚烂了。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;军训刚刚开始，真心是很累的，中午由于噪音睡不着，躺在床上歇了一会后就去取快递了。拖着疲惫的身体，打着雨伞，一步步试着走向百米微。因为昨天晚上淋着雨，跟着高德找它，但是最终还是没找到的我，所以那时确实只能是一步步地尝试性地走了。也不像晚上那么不敢走，想着反正也不知道怎么走就随
+      
+    
+    </summary>
+    
+      <category term="College" scheme="http://yoursite.com/categories/College/"/>
+    
+    
+      <category term="College" scheme="http://yoursite.com/tags/College/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>不耐烦——试着习惯</title>
+    <link href="http://yoursite.com/2017/09/16/%E4%B8%8D%E8%80%90%E7%83%A6%E2%80%94%E2%80%94%E8%AF%95%E7%9D%80%E4%B9%A0%E6%83%AF/"/>
+    <id>http://yoursite.com/2017/09/16/不耐烦——试着习惯/</id>
+    <published>2017-09-16T14:01:29.000Z</published>
+    <updated>2017-09-21T14:19:25.037Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天开学第一天，刚开始去学校因为东西多离公寓楼稍微有点远（其实学校相对来说很小），所以一开始就心情不太好，因为大汗淋漓的滋味真的很难受。然后接着一系列的事报到什么的都要顶着大太阳走一段路，还要排队，很是麻烦。最受不了麻烦的人就是我了吧，一路心情都比较低落，再加上学校没有预期的好，突然觉得有点后悔来到这里。</p><p>全程不耐烦的我，幸亏有姐姐在要不然我的生活能力的短板真是会被极其尴尬地暴露出来。</p><p>后来看到姐姐和妈妈都不嫌麻烦不嫌累地帮我收拾，我真的是觉得自己太不应该了，然后送走她们后就鼓起勇气和室友，老师，导生说话，试着帮老师收发登记。其实大学只是你人生的一次经历，每一次好的经历都是宝贵的。努力做到最好，不服自己，至少不让自己后悔，试着去习惯，去热爱，很多像你一样的人甚至还不如你的人都在不断地尝试，你还有什么理由不去呢……明天能够再勇敢一点吗？要是能够再谦和有礼，大方一点就更好了。</p><p>么么哒。。。。。。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;今天开学第一天，刚开始去学校因为东西多离公寓楼稍微有点远（其实学校相对来说很小），所以一开始就心情不太好，因为大汗淋漓的滋味真的很难受。然后接着一系列的事报到什么的都要顶着大太阳走一段路，还要排队，很是麻烦。最受不了麻烦的人就是我了吧，一路心情都比较低落，再加上学校没有预期
+      
+    
+    </summary>
+    
+      <category term="College" scheme="http://yoursite.com/categories/College/"/>
+    
+    
+      <category term="College" scheme="http://yoursite.com/tags/College/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>说说虚荣</title>
+    <link href="http://yoursite.com/2017/09/10/%E8%AF%B4%E8%AF%B4%E8%99%9A%E8%8D%A3/"/>
+    <id>http://yoursite.com/2017/09/10/说说虚荣/</id>
+    <published>2017-09-10T13:02:52.000Z</published>
+    <updated>2017-09-10T13:53:42.362Z</updated>
+    
+    <content type="html"><![CDATA[<p>我上高中的时候买过一本书《时文选萃》，不是经典名著，也不是畅销书，但是却觉得它很受用。这书是分辑出的，我就买了其中一本。上面有一篇文章是关于虚荣的叫做《聊聊虚荣》。</p><p>虚荣似乎是天生的，每个人都有。有虚荣之心不是什么坏事儿，但虚荣过了头就是坏事儿了。</p><p>有两个同学，一个高个，一个矮个，他们俩都是百米健将，不分伯仲。到了开运动会的前一天晚上，高个的怕输给矮个的，就趁矮个熟睡时，将他的头发剪成了“菜花秃子”，想以此让他不好意思参加比赛。但第二天，矮个的就顶着那个“菜花秃子”头赢得了比赛。</p><p>孟德斯鸠说，有些人的虚荣心，竭力使别人不愉快，想借此引起别人的钦佩，他们设法要出人头地，结果反而更加不如人。结合现实想想也真是，多少人一时将别人“剪”成了“菜花秃子”，最终可能是输得自己练“秃子头”都保不住了。</p><p>当你在别人面前嘲笑显摆的时候就暴露了你的愚蠢，无论你看过多少书，有多么高的地位，多么好的声望。</p><p>实际上，虚荣有无都不会有什么额外的好处或坏处，但很多人都解不了这个套，知识分子不能，名人大家也不能。波普说，每一个人的虚荣都是和他的愚蠢程度相等的。放弃虚荣吧，免得让自己成为一个愚蠢的人。</p><hr><p><img src="http://ouwsyml4w.bkt.clouddn.com/235060-14032P9350538.jpg" alt="GitHub set up"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;我上高中的时候买过一本书《时文选萃》，不是经典名著，也不是畅销书，但是却觉得它很受用。这书是分辑出的，我就买了其中一本。上面有一篇文章是关于虚荣的叫做《聊聊虚荣》。&lt;/p&gt;
+&lt;p&gt;虚荣似乎是天生的，每个人都有。有虚荣之心不是什么坏事儿，但虚荣过了头就是坏事儿了。&lt;/p&gt;
+&lt;
+      
+    
+    </summary>
+    
+      <category term="Read" scheme="http://yoursite.com/categories/Read/"/>
+    
+    
+      <category term="Read" scheme="http://yoursite.com/tags/Read/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>少年奇幻漂流记的最大感受</title>
+    <link href="http://yoursite.com/2017/09/09/%E5%B0%91%E5%B9%B4%E5%A5%87%E5%B9%BB%E6%BC%82%E6%B5%81%E8%AE%B0%E7%9A%84%E6%9C%80%E5%A4%A7%E6%84%9F%E5%8F%97/"/>
+    <id>http://yoursite.com/2017/09/09/少年奇幻漂流记的最大感受/</id>
+    <published>2017-09-09T13:30:35.000Z</published>
+    <updated>2017-09-09T14:17:38.260Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://ouwsyml4w.bkt.clouddn.com/snapshot20170908225129.jpg" alt="GitHub set up"><br>发光的海</p><hr><p><img src="http://ouwsyml4w.bkt.clouddn.com/snapshot20170908223729.jpg" alt="GitHub set up"><br>                                     惆怅的 孟加拉虎</p><hr><ul><li><p>派一直相信上帝，但他最后还是感谢他父亲给他上的那一课，使他终身受益，并救了他的命。</p></li><li><p>他最后还是感谢理查德的存在让他时刻清醒，让他相信可以活下去，最后他能够生存下去与这只孟加拉虎的存在密切相关，可以说是必要条件。</p></li><li><p>老虎在陆地上能够称王，在水里也是游泳健将，但是他不能够让自己飞起来，人类却能。这部电影让我体会到了把人能制造并使用工具作为与动物的最大区别的正确性。</p></li><li><p>多掌握一门技能总是好事，蔡康永有一段话很多人应该听过（这里就不多说了）和这个想法差不多。不管是15岁，18岁还是28岁都这一理论都适用。</p></li><li><p>人不一定胜天，但可以胜过能够胜过的东西，这就是尽全力。</p></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;http://ouwsyml4w.bkt.clouddn.com/snapshot20170908225129.jpg&quot; alt=&quot;GitHub set up&quot;&gt;&lt;br&gt;发光的海&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&quot;http://ouwsyml4
+      
+    
+    </summary>
+    
+      <category term="Movie" scheme="http://yoursite.com/categories/Movie/"/>
+    
+    
+      <category term="Movie" scheme="http://yoursite.com/tags/Movie/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Word Day10</title>
+    <link href="http://yoursite.com/2017/09/08/Word-Day10/"/>
+    <id>http://yoursite.com/2017/09/08/Word-Day10/</id>
+    <published>2017-09-08T09:18:37.000Z</published>
+    <updated>2017-09-08T10:06:13.416Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>collar 衣领</li><li>rough 多暴力的；犯罪率高的</li><li>drag 拖；拉；硬拽</li><li>naughty 淘气的；调皮的</li><li>rascal 恶棍；无赖</li><li>orphan 孤儿</li><li>convict 囚犯</li><li>prison 监狱</li><li>wedding n.婚礼</li><li>repay  报答；回报</li><li>cast 分送</li><li>distribute 分发；分配</li><li>filthy 十分肮脏的；污秽的</li><li>sparrow 麻雀</li><li>seagull 海鸥</li><li>pipe （通常埋在地下的）管子；管道</li><li>choke 使窒息；使噎住；使呼吸困难</li><li>swallow 吞下；咽下（食物或饮料）</li><li>rag （一小块）旧布；抹布</li><li>dustbin 垃圾桶</li><li>nutrition n.营养作用；滋养</li><li>starvation n.挨饿；饿死</li><li>welfare 幸福；福祉；健康</li><li>concern 关心；担心</li><li>compass 指南针；罗盘</li><li>anchor 锚</li><li>inn （样式古老的）小酒馆；小旅馆</li><li>carrier 运输工具</li><li>accumulate v.积累</li><li>corporation 公司；企业</li></ul><p><img src="http://ouwsyml4w.bkt.clouddn.com/1504779271855.jpg" alt="GitHub set up"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;ul&gt;
+&lt;li&gt;collar 衣领&lt;/li&gt;
+&lt;li&gt;rough 多暴力的；犯罪率高的&lt;/li&gt;
+&lt;li&gt;drag 拖；拉；硬拽&lt;/li&gt;
+&lt;li&gt;naughty 淘气的；调皮的&lt;/li&gt;
+&lt;li&gt;rascal 恶棍；无赖&lt;/li&gt;
+&lt;li&gt;orphan 孤儿&lt;/li&gt;
+&lt;li
+      
+    
+    </summary>
+    
+      <category term="Word" scheme="http://yoursite.com/categories/Word/"/>
+    
+    
+      <category term="Word" scheme="http://yoursite.com/tags/Word/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Mood Three</title>
+    <link href="http://yoursite.com/2017/09/07/Mood-Three/"/>
+    <id>http://yoursite.com/2017/09/07/Mood-Three/</id>
+    <published>2017-09-07T14:02:35.000Z</published>
+    <updated>2017-09-07T15:29:00.910Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天宿舍安排出来了，感觉离开学又近了一步。头一次和导生还有同学QQ电话，发现导生没有我以前觉得那么可怕，还是很平易近人的。最后我又问了他一些问题，不经意间貌似又暴露了我的一些缺点。最后学长说了一句话，准确的说是四个字：百言百当。没有见识的我问过度娘后才知道完整句是：<strong> “百战百胜不如一忍，万言万当不如一默”</strong>。意思就是该说的或就说不该说的话就不要说，这句话是清朝张廷玉的座右铭，也因他这样的处世方式而深得雍正的宠爱，还为他立下了死后可配享太庙的圣旨。</p><p>这虽然不是什么消极思想但是我觉得也不能把它当作行为准则，因为有些话应不应当说自己并不知道，如果一味地谨言慎行对自己性格的形成发展都是一种很大的约束，而适当的百言百当一下是对生存，交际很有利的。最终说的都是把握一个度。正如我们老班不建议我们看道家的“无为”思想一样，或许就是怕我们太年轻把控不好那个无为的度吧。其实这个百言百当和道家思想还是挺有关系的，都包含无为的成分。</p><p>大学要多看，一切都是为了毕业以后，就像上高中的时候一切努力都是为了上个好大学，上大学过怎样的生活。人生永远是在成长，没有尽头。度过的每一个艰难时期都是为了下一阶段更好地前行。</p><p>勿忘初心……<br>人情世故，懂点就好 不必精通</p><hr><p><img src="http://ouwsyml4w.bkt.clouddn.com/333.jpg" alt="GitHub set up"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;今天宿舍安排出来了，感觉离开学又近了一步。头一次和导生还有同学QQ电话，发现导生没有我以前觉得那么可怕，还是很平易近人的。最后我又问了他一些问题，不经意间貌似又暴露了我的一些缺点。最后学长说了一句话，准确的说是四个字：百言百当。没有见识的我问过度娘后才知道完整句是：&lt;str
+      
+    
+    </summary>
+    
+      <category term="Mood" scheme="http://yoursite.com/categories/Mood/"/>
+    
+    
+      <category term="Mood" scheme="http://yoursite.com/tags/Mood/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《羊脂球》读后感</title>
+    <link href="http://yoursite.com/2017/09/06/%E3%80%8A%E7%BE%8A%E8%84%82%E7%90%83%E3%80%8B%E8%AF%BB%E5%90%8E%E6%84%9F/"/>
+    <id>http://yoursite.com/2017/09/06/《羊脂球》读后感/</id>
+    <published>2017-09-06T14:47:46.000Z</published>
+    <updated>2017-09-08T10:32:20.365Z</updated>
+    
+    <content type="html"><![CDATA[<p>对于历史时间我一向都搞不清楚，尤其是法国的革命时期，莫泊桑的《羊脂球》写的就是普法战争法国军队战败后普鲁士军的丑恶行径和当时法国社会的现状，但我看完后印象最深的就是末尾处在马车上众人对待羊脂球的态度以及羊脂球的无助和被人当作牺牲品的可怜。一针见血地表露了作者对这些道貌岸然的上层阶级丑恶人性的揭露与鄙视。</p><p>在离开的马车里那些身份高贵的大资产阶级，伯爵和议员都对羊脂球避而远之，甚至连那个在旅店里因其他人牺牲羊脂球而责怪过他们的民主党人士也对羊脂球置之不理。那些身份显贵有着大量财产的大资产阶级有这样一系列的行径无疑是为了保全自己的名誉财富与性命，我其实对他们的出发点表示理解，但是对于他们用这种出发点为好即无罪过的绑架方式感到不齿，将道德上的压力都推到羊脂球一个人身上。而那个民主党人士最后的行为让我想起了现在关于卖淫嫖娼的话题，网络上很多男性都打着女性自由的旗号变相支持这种活动，但自己又想娶一个贤良淑德的妻子。这个民主党人士在一开始对羊脂球所遭受的欺骗还表示不满，然而当普鲁士军官得逞后在马车上他也表现出避之唯恐不及的态度。在羊脂球被他们的崇高理论的逼迫下完完全全地被欺骗之后，社会中人性中龌龊的一面暴露了出来，无论是高贵的夫人还是伯爵都没能表现出人性中应有的善良。至于那两个修女我也不知道怎么回事，感觉她们很奇怪，特蕾莎修女，德兰修女都是为全世界人所敬佩的，修女本身是与世俗人不一样的，然而这里面的两个修女虽然没有直接参与策划但是在马车上她们对羊脂球的态度与特蕾莎对整个世界相比真的是让人无语。不过连修女都如此也就更加衬托出当时法国社会的混乱程度。</p><p>羊脂球的社会地位与她表现出的勇气与善良形成了对比，而其他人的社会地位与其行径也形成了强烈的对比，这两部分在我看来就是小说的的最大的矛盾冲突，又是一个十分鲜明的对比与冲突。</p><p>在战争中表现出的勇气是让人敬畏，钦佩的，羊脂球在自己的国家遭受外国侵略时差点打死一个普鲁士士兵，表现出的勇气让马车上其他人也对她产生了一丝尊敬（尽管那么短暂）。这让我想到了南京大屠杀中日军刚刚进城集体抓人时，在城中居民士兵是当时日军人数十倍的情况下这些人竟然都没有表现出一丝的反抗，这也让日本兵大吃一惊。他们或许是对日本军的到来抱有希望，以为日本的军队占领后就能停止战争，就能让他们过上安稳日子，所以才那么顺服吧。</p><p>无论在哪个国家，在战争中表现出的爱国的勇气都是值得尊敬的，这篇小说鲜明地反映了当时普法战争法国战败后的法国社会的现实情况。</p><hr><h2 id=""><a href="#" class="headerlink" title=" "></a><img src="http://ouwsyml4w.bkt.clouddn.com/111.jpg" alt="GitHub set up"> </h2><p><img src="http://ouwsyml4w.bkt.clouddn.com/u=2617365199,1683360746&amp;fm=27&amp;gp=0.jpg" alt="GitHub set up"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;对于历史时间我一向都搞不清楚，尤其是法国的革命时期，莫泊桑的《羊脂球》写的就是普法战争法国军队战败后普鲁士军的丑恶行径和当时法国社会的现状，但我看完后印象最深的就是末尾处在马车上众人对待羊脂球的态度以及羊脂球的无助和被人当作牺牲品的可怜。一针见血地表露了作者对这些道貌岸然的
+      
+    
+    </summary>
+    
+      <category term="Read" scheme="http://yoursite.com/categories/Read/"/>
+    
+    
+      <category term="Read" scheme="http://yoursite.com/tags/Read/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Word Day9</title>
+    <link href="http://yoursite.com/2017/09/05/Word-Day9/"/>
+    <id>http://yoursite.com/2017/09/05/Word-Day9/</id>
+    <published>2017-09-05T14:53:39.000Z</published>
+    <updated>2017-09-06T09:53:25.822Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>irritate （尤指不断重复做某事而）使（人长期）烦躁</li><li>polish 擦光擦亮</li><li>zipper 拉链</li><li>button 纽扣</li><li>fortnight 两星期，14天</li><li>certificate （毕业）文凭，成绩合格证书</li><li>scholarship 奖学金</li><li>cheerleading 当拉拉队队员</li><li>squad 拉拉队</li><li>pompom （拉拉队队员用的）彩色塑料线球；绒球</li><li>routine 一套固定舞步</li><li>course 课程</li><li>novelist 小说家</li><li>scene 场景；场面</li><li>cruel 冷酷的</li><li>pot 锅</li><li>warden 管理员</li><li>serve 端上（饭菜等）</li><li>appetite 胃口；食欲</li><li>nudge 推开</li><li>desperate 绝望的</li><li>in astonishment 惊讶地</li><li>support 支撑物</li><li>in a … voice 用…声音说；…声地</li><li>no sooner … than 刚一…就</li><li>seize 抓住</li><li>hang 绞死；吊死</li><li>reward 酬谢；奖金</li><li>scream 尖叫</li><li>collar 衣领</li></ul><p><img src="http://ouwsyml4w.bkt.clouddn.com/1503546520.jpg" alt="GitHub set up"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;ul&gt;
+&lt;li&gt;irritate （尤指不断重复做某事而）使（人长期）烦躁&lt;/li&gt;
+&lt;li&gt;polish 擦光擦亮&lt;/li&gt;
+&lt;li&gt;zipper 拉链&lt;/li&gt;
+&lt;li&gt;button 纽扣&lt;/li&gt;
+&lt;li&gt;fortnight 两星期，14天&lt;/li&gt;
+&lt;li&gt;certif
+      
+    
+    </summary>
+    
+      <category term="Word" scheme="http://yoursite.com/categories/Word/"/>
+    
+    
+      <category term="Word" scheme="http://yoursite.com/tags/Word/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>英语阅读理解</title>
+    <link href="http://yoursite.com/2017/09/04/%E8%8B%B1%E8%AF%AD%E9%98%85%E8%AF%BB%E7%90%86%E8%A7%A3/"/>
+    <id>http://yoursite.com/2017/09/04/英语阅读理解/</id>
+    <published>2017-09-04T12:41:43.000Z</published>
+    <updated>2017-09-05T13:54:57.532Z</updated>
+    
+    <content type="html"><![CDATA[<p>下面的这些都是高三的英语老师讲课时提到的一些方法，我也只是根据自己的印象写的，虽然不全不够详细但是这些方法都很有效。</p><h2 id="做英语阅读理解步骤："><a href="#做英语阅读理解步骤：" class="headerlink" title="做英语阅读理解步骤："></a>做英语阅读理解步骤：</h2><ol><li>如果是应用类文章可以直接看题，再看文章；但如果是其他类型的文章就要先看文章，再读题。</li><li>读的过程中在文章中划住作者的观点（具有转折意义的句子，祈使句以及主语为I/We的句子),具有因果关系的句子和虚拟语气（也包括if虚拟句和真实条件句）</li><li>读完题后读选项，在选项中划住绝对意义的词和表达部分否定的词（绝对意义的词+not)。  </li></ol><h2 id="阅读理解的题型"><a href="#阅读理解的题型" class="headerlink" title="阅读理解的题型"></a>阅读理解的题型</h2><p><strong>根据山西考卷</strong>大致分为这四种：（这里主要说主旨大意题，因为其他的忘得差不多了）</p><ul><li><p>细节题<br>  从文章中找关键词和关键句（即和题目相关部分），然后根据所找部分的句意选择。</p></li><li><p>推断题<br>  推断题有两种：一是考文章的中心，二是考文章的细节。</p></li><li><p>主旨大意题</p></li></ul><blockquote><p>做主旨大意题要注意文章的标题和作者的目的与态度（这个在阅读文章的时候就已经划住了，可以直接找）。</p><p>选出主旨还要经过以下步骤：</p><ol><li>从全文来看，先辨明体裁（记叙文，说明文，议论文等）；如果每段提到一件事的话对这些事件进行重新分类； 对于<strong>说明文和议论文</strong>按照<strong>what why how</strong>的顺序思考文章说了什么。</li><li>对于最后剩下的两个选项犹豫不决时，要先对比它们的不同之处，看哪个包括文中更多的内容就选哪个。</li><li>也可以利用前面或后面的细节题的题干或答案，或者其他题的题干进行答题。</li></ol></blockquote><p>（先段首再段尾最后段中找主旨的方法在主旨比较明显时也可以用）</p><ul><li>猜词义<br>猜词义题可以看词所在句子的前后句，若前后句都提到过同一或相似的词语或表述，那么可以猜测这个词的意思有可能与它们相近，综合运用前面提到的某些手段也是可以的。</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;下面的这些都是高三的英语老师讲课时提到的一些方法，我也只是根据自己的印象写的，虽然不全不够详细但是这些方法都很有效。&lt;/p&gt;
+&lt;h2 id=&quot;做英语阅读理解步骤：&quot;&gt;&lt;a href=&quot;#做英语阅读理解步骤：&quot; class=&quot;headerlink&quot; title=&quot;做英语阅读理
+      
+    
+    </summary>
+    
+      <category term="Read" scheme="http://yoursite.com/categories/Read/"/>
+    
+    
+      <category term="Read" scheme="http://yoursite.com/tags/Read/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Word Day8</title>
+    <link href="http://yoursite.com/2017/09/03/Word-Day8/"/>
+    <id>http://yoursite.com/2017/09/03/Word-Day8/</id>
+    <published>2017-09-03T14:03:35.000Z</published>
+    <updated>2017-09-06T09:50:36.517Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>institution 机构；团体</li><li>sew 缝</li><li>woollen 羊毛制的；毛料的</li><li>suitcase （旅行用的）手提箱</li><li>innocent 天真无邪的；阅世不深的</li><li>pillow 枕头</li><li>quilt 被子</li><li>worn 陈旧的；损坏的</li><li>armchair扶手椅</li><li>cushion 垫子</li><li>kettle （煮开水用的）水壶</li><li>decoration 装饰物</li><li>washroom 厕所</li><li>basin 洗脸盆</li><li>bathtub 浴缸；澡盆</li><li>sob 啜泣；呜咽</li><li>arithmetic 算术</li><li>multiply 乘；使相乘</li><li>algebra 代数</li><li>geometry 几何学</li><li>cubic 立方的</li><li>acre  英亩</li><li>gram 克</li><li>dynamic 精力充沛的；有创新思想的</li><li>bachelor 未婚男子</li><li>botanical 植物（学）的</li><li>microscope 显微镜</li><li>regulation 规章；制度</li><li>punctual 准时的；守时的</li><li>Ctholic 天主教徒</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;ul&gt;
+&lt;li&gt;institution 机构；团体&lt;/li&gt;
+&lt;li&gt;sew 缝&lt;/li&gt;
+&lt;li&gt;woollen 羊毛制的；毛料的&lt;/li&gt;
+&lt;li&gt;suitcase （旅行用的）手提箱&lt;/li&gt;
+&lt;li&gt;innocent 天真无邪的；阅世不深的&lt;/li&gt;
+&lt;li&gt;pillo
+      
+    
+    </summary>
+    
+      <category term="Word" scheme="http://yoursite.com/categories/Word/"/>
+    
+    
+      <category term="Word" scheme="http://yoursite.com/tags/Word/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Word Day7</title>
+    <link href="http://yoursite.com/2017/09/02/Word-Day7/"/>
+    <id>http://yoursite.com/2017/09/02/Word-Day7/</id>
+    <published>2017-09-02T13:36:40.000Z</published>
+    <updated>2017-09-06T09:47:28.854Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>puls 脉搏 </li><li>confirm 正式；进一步确定</li><li>dizzy 头晕目眩的</li><li>bandage 绷带</li><li>blanket 毯子</li><li>ambulance 救护车</li><li>considerrate 体谅的；考虑周到的</li><li>weep 哭泣；流泪</li><li>frustration 挫折；失望；失意</li><li>oval 卵形的；椭圆形的</li><li>gymnasium 体育馆；健身房</li><li>pole 杆；柱 </li><li>basis 基础；根据</li><li>version 变体；改编本</li><li>highlight 最重要的部分；最精彩的部分</li><li>prom 高中生的正式舞会</li><li>peer 同龄人</li><li>mediator 调解员</li><li>look back at 回忆</li><li>settle 解决</li><li>competetive 好强的；好竞争的</li><li>elect 选举；推选</li><li>suit 合适；适合</li><li>It’s a great pity that… 很可惜…</li><li>enormous 巨大的；庞大的</li><li>keen 渴望的；热心的</li><li>as far as I’m concerned 就我而言</li><li>in my view 我认为；在我看来</li><li>consider 认为</li><li>be considered as 被看作；被认为是</li><li>water skiing 滑水运动</li><li>be likely to do 有可能</li><li>boarding 提供住宿的</li><li>nersery 托儿所</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;ul&gt;
+&lt;li&gt;puls 脉搏 &lt;/li&gt;
+&lt;li&gt;confirm 正式；进一步确定&lt;/li&gt;
+&lt;li&gt;dizzy 头晕目眩的&lt;/li&gt;
+&lt;li&gt;bandage 绷带&lt;/li&gt;
+&lt;li&gt;blanket 毯子&lt;/li&gt;
+&lt;li&gt;ambulance 救护车&lt;/li&gt;
+&lt;li&gt;con
+      
+    
+    </summary>
+    
+      <category term="Word" scheme="http://yoursite.com/categories/Word/"/>
+    
+    
+      <category term="Word" scheme="http://yoursite.com/tags/Word/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>一个星期的努力</title>
+    <link href="http://yoursite.com/2017/09/01/%E4%B8%80%E4%B8%AA%E6%98%9F%E6%9C%9F%E7%9A%84%E5%8A%AA%E5%8A%9B/"/>
+    <id>http://yoursite.com/2017/09/01/一个星期的努力/</id>
+    <published>2017-09-01T14:10:17.000Z</published>
+    <updated>2017-09-26T14:07:11.665Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="你不够好"><a href="#你不够好" class="headerlink" title="你不够好"></a>你不够好</h2><blockquote><p>你学习一般，考上了现在的这所学校，成绩不算好，拿不到奖学金，上课不听讲，上自习不规律，考试靠突击，同学帮一把的话也能每科考到七八十分，但是与优秀总有很大距离。 你家境一般，父母都是普通员工，你在这个城市的生活费是每月一千二，没事下下馆子，一个月添件衣服，想买台相机，咬咬牙才能买双自己喜欢的鞋。<br>你几乎没有特长，不会弹吉他，不会弹钢琴，不会跳舞，不会画画，想学摄影却不会使用图片处理软件，想上台演出却没信心，学校晚会比赛的时候，你经常是站在台下围观的人群里的一员，你与聚光灯环绕的舞台几乎绝缘。 你长相一般，不算英俊或者不算美丽，身材不算臃肿但也没什么肌肉或者没什么曲线，平时只是稍稍打扮一下，看上去并不出众，只能算整洁，与人擦肩而过是对方不会多留意你一眼。 你的感情也是一般，有时候会遇见自己心仪的那个人，但是总抓不住机会，眨眼间那个人就被其他人俘获，你就开始伤心、抱怨，但是几天之后又开始寻找新的心上人，就这样看着一个个心上人走过，直到你毕业，与其中任何一个都没有发展。 总之，你没有什么特别的地方 ，就和周围的千万个普通人一样。 </p></blockquote><h2 id="所以努力一星期"><a href="#所以努力一星期" class="headerlink" title="所以努力一星期"></a>所以努力一星期</h2><blockquote><p>你不甘心拿不到奖学金，看见别人得奖学金的时候你会说那完全是突击的结果，于是你开始上自习，<strong>不过你只坚持了一星期</strong>。<br>你不甘心自己的父辈平平，于是你批评讽刺自己周围的“官二代”、“富二代”，立志要努力学习争取成功，也好让自己的孩子成为“富二代”，<strong>你的热情持续了一个星期</strong>。<br>你不甘心自己什么特长都没有，于是你开始学弹吉他、买滑轮鞋、借来摄影方面的书籍，<strong>你对着镜子微笑着说：“你是最棒的。” 这份虚假的信心维持了一个星期</strong>。<br>你不甘心自己没有伴侣，你决心洗心革面重新做人，你删掉电脑里的偶像剧肥皂剧，你收拾起床上的懒人桌，把零食袋子统统扔掉，然后洗了个澡并且修饰了一下自己，你往发型上喷了啫喱水，好让自己看起来很精神，你怀揣着一本成功学的书决定出去走走，开始新的生活。这样的状态，<strong>你稀稀拉拉地坚持了一个星期</strong>。<br><strong>一个星期之后，你还是和周围千万个人一样，你还是和一星期前的自己一样。</strong><br>你逛网络论坛，看到了这样一句话：“二十岁是人生最美好的时光，不应该局限在学校里教室里，应该享受生活。” 于是你相信了，你觉得二十岁的你就应该“随心所欲”，享受“人生中最后的自由时光”；就应该“快乐地去恋爱”“风华正茂”“挥斥方遒”······<br>现在的你，用着父母的血汗钱，用着名牌包、穿着名牌跑鞋、骑着捷安特山地车、用着佳能牌的相机和苹果牌的手机，还经常去星巴克喝喝咖啡体验一下小资情调······ </p></blockquote><h2 id="然而—一星期没用"><a href="#然而—一星期没用" class="headerlink" title="然而—一星期没用"></a>然而—一星期没用</h2><blockquote><p><strong>那么，请允许我猜测一下你的未来——</strong> </p><p>在大四将要结束时，你考研落榜。你风风火火的参加校园招聘会，很多公司你都看不上，嫌他们不是体制内单位、平台窄、规模小，直到毕业，你还没有找到心仪的工作。你收拾好行李回到老家，父母让你试着参加各种招聘考试或者参加当地的应聘会，你不去，因为你觉得那些工作太简单了，不适合你，你应该去寻找更好的就业机会。可是，当你去那些你看得上的公司应聘时，你的竞争对手太多了，而且都不差，你表现平平，理所当然地被拒之门外······ </p><p>现在的你，也许还在上大学，也许和恋人恩恩爱爱，每天黏在一起，午饭晚饭一起去吃，晚自习后还会一起在操场散步。你们讨论起未来，最后的结论总是：不要想得太多，认真过好现在就好。 不幸运的话，几个月后，你们就分手了，你凄凄惨惨戚戚，反复问自己究竟哪里做错了；幸运的话，你们会一直恋爱到毕业，最终，你绝得自己不够优秀没能力去对方所在的城市读研或者工作，所以你们带着不舍和悔恨分手了。  现实很残酷，至此，你信了。 </p><p>现在的你喜欢刷微博，你会全力支持那些你赞同的观点，你会激励否定那些你反对的观点。你爱憎分明，看起来很有正义感。你觉得血气方刚的年轻人就应该敢于说出自己的心声。你可能从来不会去想一个问题：<strong>你的观点，来自哪里？</strong>其实，它们绝大部分来自网络，它们已经蚕食了你的判断力。 </p><p>现在，我只想问你一个问题：<strong>二十岁的你，有什么资本。</strong> </p></blockquote><p><strong>你只是千千万万人中微不足道的一个人，少了你，地球还是一样会转。<br>我敢打赌，一定很久没人和你说过“吃得苦中苦，方为人上人”这句话了吧？<br>你知道“责任”两个字是怎么写的吗?<br>当你谈论飞翔的时候，你是不是忘记了地心引力的存在？<br>现在的你，如果还是放纵着自己的懒惰与幼稚，虚度着光阴，那么，你就虚度去吧。反正我已经过了二十岁的年纪，我还有未来，我得直奔向前了，不陪你了。再见！</strong>   ——华文《20岁无资本无未来》</p><p><img src="http://ouwsyml4w.bkt.clouddn.com/v2-65bd9c17b1870cf8deae927b63b05c9f_r.jpg" alt="GitHub set up"></p><p>上面几段话是我在逛知乎时看到的，答者也是引用的这几段话，我然后又给它加了三个标题，是我对它的一个理解概括吧。<br>对于即将上大学的我，对大学生活说起来有点迷茫，不知道到底应该怎么做。</p><blockquote><p>看到过有的大学生说老师这样形容大学四年：大一刚刚进入大学，新奇、兴奋、狂欢，每天都有不一样的体验，每天都认识新的朋友，聚会、恋爱、快乐；大二熟悉了环境套路，形成了自己的小圈子，上课下课吃饭睡觉，偶尔出去玩一玩，看看电影，自然而然的度过每一天，却不知所剩时光无几；大三，突然醒悟发现自己马上要毕业了，开始为未来考虑，实习、考证、出国、考研、就业，所有人仿佛都忙了起来；大四，就像大树上的鸟儿，一声枪响，所有的鸟都飞起来，向着各自的方向，有些人这辈子都可能见不到了。校园里又迎来一批新生，仿佛之前的那些孩子，从来不曾存在过。是的，地球那么大，你庸庸碌碌没人会看到你，就像和空气融为一体一样；你有所作为或者至少活得清清爽爽却会让你自己以及身边的人感到舒服，幸福感跟着也就提升了。</p></blockquote><p>感觉我截至目前的上学生涯也是一个不断成长的过程，比如：我以前说过无数次我这回假期作业一定要写完，然而没有一回写完过。其实在上初中以前我的作业完成情况要好很多，初一上学期也一直还好，但是慢慢的身边各种各样的人多了，应付作业的方式也多了，感觉作业没完成没那么重要，之后到下学期作业也基本就不写了，都是去学校写，上高中也一直是这样。虽然下过很多次的决心，但是行动上就是实现不了。曾经也做过努力要好好学习，要练字等等，但就像上面说的只是一星期而已，最后它并没有什么用。好在我还有一点理智，高三前的最后一个长假我知道自己作业写不完，但是我也下定决心绝对不会抄答案（不用行动的决心倒是执行得不错，哈哈），为的就是不想在最后一个假期还欺骗自己，最后我确实做到了（一百套卷子左右我活生生地就写了六七套，去的时候已经做好了叫家长都准备）。以后的学习生活中一想要欺骗一下自己的时候就拿这个来提醒自己，效果还是可以的，呵呵。</p><p>总之就是以后要更多一些理性，一个星期的努力产生的效果几乎为零。要怎么过是自己的事，但是在看完前人的经验后，在发出这篇自我警示后就不要在以后想尽力张扬自己的个性，放纵自己的任性。理性也不是一个星期就可以磨练出来的，需要丰富的经验和积极的思考还有不聪明人应有的挫折与错误。我再过两年也就20岁了，20岁的我积累的资本将会有多少，18岁的我拭目以待。</p><p>下面是我在知乎上看到的一些前车之鉴，感觉挺有用的，就拿过来以便随时学习；</p><blockquote><ol><li><p>不要睡懒觉一定要养成早睡早起的习惯，千万别觉得成为寝室最后睡最晚睡的人特别酷，其实特别傻。新生军训一周，整个宿舍的作息都是很规律的。军训结束之后，大家就慢慢放松了。从六点起床到六点半到后来七点多，踩着八点去上课。晚上迟迟不睡觉，长久以来，作息就后延了，想改也很难改。</p></li><li><p>不要点外卖（偶尔还是可以的—以表对评论赞成态度）女孩子，可能会因为没洗头所以不出门，就点个外卖呗。我跟你讲，当你自己不满意自己的外表时，你在寝室里除了玩手机玩得下去，做咩都没心思。男孩子，打游戏到半夜，十点钟起床点外卖，一点钟再起床吃。ohmygod一天就没有了大半时光。</p></li><li><p>不要总和室友bibi，特别是不理解你的室友。你要明白，上大学不是解放，是另外一场战役正式开始。So，或许高中寝室里的彻夜长谈在大学里可能不存在，可以bibbi，但是不要成为话最多的那个人。更不要成为长舌妇。</p></li><li><p>学习上对自己坚持高要求。也许很多师兄师姐会告诉你，哪一门课其实好简单的，考前突击就可以。但希望你可以自己做判断。对于某些科目，的确不必过于重视。但对于自己的专业课，尤其是基础课，希望真的可以严格要求自己。早一点到教室，占到一个好位置，靠前排的，听课前做好预习，跟紧老师思路，做好笔记，收集好每节课PPT，有疑问积极和老师交流。不要有了PPT就觉得课堂可以不做笔记，不要有了师兄师姐的白皮书就可以自欺欺人投机取巧拿着刚及格的分数沾沾自喜。坚持自习，劳逸结合，注重知识点的分类和知识结构的建立。大学课很快，一定要分配好时间做预习和复习。</p></li><li><p>不必参与太多组织和社团。组织一般会带有责任性质，所以一般来讲，一个就够忙活的了。真正学得到东西的地方不多，不要一味地为了融入别人而伪装。社团是兴趣性质，一般不强制要求。可以多加，只要有钱交社费。想去的时候就去，但如果是想学新东西的，还是要靠自己主动，还要注意时间分配，不要落下学习。</p></li><li><p>习惯孤独。大学是一个小社会，人人各司其职。进来了这里，就要不断告诫自己，你是一个心智成熟的人，是可以独立生活的。就我个人感觉，大学比中学难一百倍交到真正交心的伙伴。所以要学会习惯无人倾诉的感觉，习惯无人陪伴。一个人的时候，也要过得充实和精彩。</p></li><li><p>多看书多看电影以开拓视野最好每看完一本书写一下看书心得和观影心得。因为这种事后行为有助于你更加记得一本书or一部电影的内容。一个人独处的时候做什么，大概就是刷电影刷书，你不会无聊的。</p></li><li><p>一定要坚持运动！健身！它可比你学会化妆，注重穿衣搭配重要的多。高中的小朋友们，绝大部分都有跑步的好习惯。上大学后千万别放弃，只有身体棒棒哒，身材美美哒，化妆+穿衣才是锦上添花。</p></li><li><p>不知道学什么都要记得努力考证有的学校第一学期是不给考英语四级的，如果第一学期成绩好，排在前百分之二十，才有机会在第二学期报考。所以你得争取啊……比如计算机二级证书，英语四六级证书，教师资格证等这些证书，争取一次就过。不然，你是没有激情的。或许四级你裸考都过了，但是六级就不一定啦～</p></li><li><p>技多不如技精参加学校部门or社团，其实不是说不好，重要是看你如何去对待。讲一个本人的经历，我对微信公众号运营方面很感兴趣，我在大学参加了校级组织，学到学校里最为精深的技能，我做得文案还不错。最后组织需要裁掉一个人，我不是最积极，我技能面不是最广，但是不可缺少，我被留下来继续加强技能。暑假的时候，碰巧有一份我喜欢的工作（文案编辑），没有因为实力不足退缩，直接上！</p></li><li><p>不知道学啥你就去学辩论学演讲这是罗胖在《奇葩说》谈到的，我觉得很对。如果真的迷茫，不妨学学习演讲，毕竟大学里很多中文演讲比赛英语演讲比赛，拿到名次的话也是棒棒哒！辩论能给你的思维进一步拓展，看的方位多了，在一些事情上也不会这么冲动，或许在某种程度上这叫成熟。</p></li></ol></blockquote><p>金钱面包一定有，绝不会花明天的钱享今天得乐吃后天的苦……</p><p>上大学最后悔的事莫过于:听了那么多前人的经验，却又想活出自我，结果又把他们走过的弯路从新走了一遍。</p><p>所以你所有的自作聪明，不务正业，只有捷径，最后也让你无路可走。</p><p>大学中，有时候傻一点比较好，吃一点亏比较好，多挨挨骂比较好。有些弯路，永远也躲不过，既然躲不过，那就早点走。别害怕摔跤，大学就是让你放手去闯的。</p><p>最后，吃亏是福，但是要长记性。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;你不够好&quot;&gt;&lt;a href=&quot;#你不够好&quot; class=&quot;headerlink&quot; title=&quot;你不够好&quot;&gt;&lt;/a&gt;你不够好&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;你学习一般，考上了现在的这所学校，成绩不算好，拿不到奖学金，上课不听讲，上自习不规律，考试靠突击，
+      
+    
+    </summary>
+    
+      <category term="Mood" scheme="http://yoursite.com/categories/Mood/"/>
+    
+    
+      <category term="Mood" scheme="http://yoursite.com/tags/Mood/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Word Day6</title>
+    <link href="http://yoursite.com/2017/08/31/Word-Day6/"/>
+    <id>http://yoursite.com/2017/08/31/Word-Day6/</id>
+    <published>2017-08-31T12:59:42.000Z</published>
+    <updated>2017-09-01T02:28:50.880Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>collision n.碰撞</li><li>parallel 平行的；并存的</li><li>adequate 适当的；足够的；充分的</li><li><strong>absorb 削减；缓冲</strong></li><li>abrupt 出其不意的；突出的</li><li>appoint 任命；委派</li><li>accelerate 加快加速</li><li>sock 短袜</li><li>sneaker 胶底运动鞋</li><li>bound 跳跃</li><li>bounce （使）反弹</li><li>boundary 界限；范围</li><li>vest 内衣背心；汗衫</li><li>horizontal 水平的；与地平线平行的</li><li>tournament 锦标赛；联赛；比赛</li><li>interval （球赛的）中场休息</li><li>typical 典型的；独特的</li><li>slim 苗条的；修长的</li><li>stout （躯体）胖的；粗壮的</li><li>belly 肚子；腹部</li><li>circuit 环形</li><li>controversial 有争议的</li><li>dip 下降</li><li>commit 犯错误，罪行</li><li>foul （运动比赛中的）犯规动作</li><li>suspension n.暂停；中止</li><li>penalty （体育比赛中对犯规的）处罚</li><li>take possession of 占有；占据；拥有</li><li>howl （因悲伤，疼痛，愤怒而）不停地嚎哭；咆哮</li><li>bleed 流血；出血</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;ul&gt;
+&lt;li&gt;collision n.碰撞&lt;/li&gt;
+&lt;li&gt;parallel 平行的；并存的&lt;/li&gt;
+&lt;li&gt;adequate 适当的；足够的；充分的&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;absorb 削减；缓冲&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;abrupt 出其不意的
+      
+    
+    </summary>
+    
+      <category term="Word" scheme="http://yoursite.com/categories/Word/"/>
+    
+    
+      <category term="Word" scheme="http://yoursite.com/tags/Word/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Mood Two</title>
+    <link href="http://yoursite.com/2017/08/30/Mood-Two/"/>
+    <id>http://yoursite.com/2017/08/30/Mood-Two/</id>
+    <published>2017-08-30T14:21:24.000Z</published>
+    <updated>2017-08-30T15:31:08.001Z</updated>
+    
+    <content type="html"><![CDATA[<p>总是看到了才会想起来，以前说要看一些电影但是后来就忘了，直到有人推荐才想起来。今天也是，看到一篇关于青旅的文章就想起来我曾经也说过大学期间要去重庆独自旅行一回。</p><hr><p><img src="http://ouwsyml4w.bkt.clouddn.com/u=1984983056,1123824162&amp;fm=26&amp;gp=0.jpg" alt="GitHub set up"></p><p>我很向往一个人的旅行，也觉得一定会喜欢。因为一个人出去不需要照顾另一个人的时间，喜好之类的，感觉很自由很潇洒。我高三的时候时间比较紧，生活上等等也发生了一些变化，我的需要和一些外部条件导致我不得不一个人去吃饭，一个人回宿舍，一个人去班里，三点一线的生活总之都是一个人。有时候也会感到很孤独，但是我一直都会用老班的话来安抚自己：当你感到孤独的时候你就快成功了。（哈哈哈）当时也不知道是不是真的，但是它对我的心境的确起到了一些积极作用。不过有时候还是会很喜欢一个人走的，不用等待，不用因没有话题说而感到尴尬，更不用去迎合一些话题，总之就是感觉很舒服，很自由。</p><p>虽说我不是一个有酒有歌就足矣的浪漫人士，但是对于一些有情趣，有意思的东西尤其是那种自由自在的舒适感还是非常向往的。<br>比如，《成都》里写的；</p><blockquote><p><strong>和我在成都的街头走一走 喔…<br>直到所有的灯都熄灭了也不停留<br>你会挽着我的衣袖 我会把手揣进裤兜<br>走到玉林路的尽头 坐在小酒馆的门口</strong></p></blockquote><p>上面的只是一个意境，自己走也是很不错的。住在青旅里，就像高中时的上下床，遇到各种各样的人，听着各自的故事，在老板或者舍友的推荐下走遍那里的大街小巷，尝遍隐藏的美味，真正地体会到当地的魅力，也是让自己的大学无憾的一部分吧。趁着年华尚好，时间正好，恣意挥洒青春和激情吧。不要在未来的某一天说；如果那年夏天……</p><hr><p><img src="http://ouwsyml4w.bkt.clouddn.com/timg%20%281%29.jpg" alt="GitHub set up"></p><hr><p><img src="http://ouwsyml4w.bkt.clouddn.com/timg.jpg" alt="GitHub set up"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;总是看到了才会想起来，以前说要看一些电影但是后来就忘了，直到有人推荐才想起来。今天也是，看到一篇关于青旅的文章就想起来我曾经也说过大学期间要去重庆独自旅行一回。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&quot;http://ouwsyml4w.bkt.clouddn.com/u
+      
+    
+    </summary>
+    
+      <category term="Mood" scheme="http://yoursite.com/categories/Mood/"/>
+    
+    
+      <category term="Mood" scheme="http://yoursite.com/tags/Mood/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Mood one</title>
+    <link href="http://yoursite.com/2017/08/28/Mood-one/"/>
+    <id>http://yoursite.com/2017/08/28/Mood-one/</id>
+    <published>2017-08-28T13:06:23.000Z</published>
+    <updated>2017-08-28T13:21:14.210Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>如果你在大学能保持单身，请这样活着:</p><p>你可以在黄昏的自习室，目光穿过古老的大学校园的窗户<br>看着金色的光泽挥洒在运动场上，<br>同样你可以听着远远的喧哗声，安静温暖的心情缓缓荡漾起来<br>捧一本书<br>一杯淡淡的茶水<br>一份自如的心情</p><p>如果一个人，请这样活着<br>不听张惠妹，听杨千嬅<br>听陈奕迅，听张学友<br>不看琼瑶，看鲁迅<br>看冰心，看孔子<br>做一个内心丰富的人，做一个内心有深度的人<br>不管是高兴还是悲伤，不要写在脸上<br>要放在心里</p><p>如果一个人，请这样活着<br>不用扮淑女或者好男人<br>不用去学贤惠或者成熟稳重<br>一切以自己为中心<br><strong>能多潇洒就多潇洒<br>能多豪迈就多豪迈<br>可以不拘小节，可以邋遢<br>想去那里就去哪里</strong><br>只考虑自己就够完善了</p><p>如果一个人，请这样活着<br>闲来无事的时候<br>去买杯咖啡，坐在教学楼的顶层<br>看校园里的嬉闹挥打，情侣缠绵<br>交一个真挚的朋友<br>提前为自己策划未来<br>为自己制定小的目标或者大的目标<br>努力成为一个有责任感，有能力的人</p><p>如果一个人，请这样活着<br>也许会寂寞，但不要落寞<br>也许在天黑的时候，会莫名的伤感<br>不过要时刻提醒自己，要有一颗坚强勇敢的心<br><strong>我们可以用工作和学习来麻痹自己的无聊和空虚<br>不过一定要充实</strong></p><p>如果一个人，请这样活着<br>看淡爱情，看淡名利<br>看淡一切的尔虞我诈<br>你不需要知道自己爱谁<br>但不要看淡幸福，要面向幸福的方向<br>挥奔蹦跑，不可以放弃<br>泪流满面，不可以丧气<br>靠自己的力量给自己快乐</p><p>如果一个人，请这样活着<br>可以孤单，但不许孤独<br>可以寂寞，但不许空虚<br>可以消沉，但不许堕落<br>可以失望，但不许放弃</p><p>如果一个人，请你记住<br><strong>失败不可怕，可怕的是失去了坚持的勇气</strong><br>永远热泪盈眶<br>永远相信努力的意义<br>永远相信放弃比失败更可怕</p></blockquote><hr><p><img src="http://ouwsyml4w.bkt.clouddn.com/1502864885.jpg" alt="GitHub set up"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;如果你在大学能保持单身，请这样活着:&lt;/p&gt;
+&lt;p&gt;你可以在黄昏的自习室，目光穿过古老的大学校园的窗户&lt;br&gt;看着金色的光泽挥洒在运动场上，&lt;br&gt;同样你可以听着远远的喧哗声，安静温暖的心情缓缓荡漾起来&lt;br&gt;捧一本书&lt;br&gt;一杯淡淡的茶水&lt;br&gt;
+      
+    
+    </summary>
+    
+      <category term="Mood" scheme="http://yoursite.com/categories/Mood/"/>
+    
+    
+      <category term="Mood" scheme="http://yoursite.com/tags/Mood/"/>
+    
+  </entry>
+  
+</feed>
