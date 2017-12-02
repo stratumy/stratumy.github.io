@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-12-02T16:53:50.965Z</updated>
+  <updated>2017-12-02T16:57:59.213Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,47 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Photo two</title>
+    <link href="http://yoursite.com/2017/12/03/Photo-two-1/"/>
+    <id>http://yoursite.com/2017/12/03/Photo-two-1/</id>
+    <published>2017-12-02T16:57:59.000Z</published>
+    <updated>2017-12-02T16:57:59.213Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Photo two</title>
+    <link href="http://yoursite.com/2017/12/03/Photo-two/"/>
+    <id>http://yoursite.com/2017/12/03/Photo-two/</id>
+    <published>2017-12-02T16:55:43.000Z</published>
+    <updated>2017-12-02T16:58:09.055Z</updated>
+    
+    <content type="html"><![CDATA[<p>接着来</p><p><img src="http://ouwsyml4w.bkt.clouddn.com/IMG_20171015_111351_HDR.jpg" alt="GitHub set up"></p><h2 id="校园一景"><a href="#校园一景" class="headerlink" title="校园一景"></a>校园一景</h2><p><img src="http://ouwsyml4w.bkt.clouddn.com/IMG_20171122_155506.jpg" alt="GitHub set up"></p><h2 id="听会时的小发现"><a href="#听会时的小发现" class="headerlink" title="听会时的小发现"></a>听会时的小发现</h2><p><img src="http://ouwsyml4w.bkt.clouddn.com/IMG_20171126_085215_HDR.jpg" alt="GitHub set up"></p><p><img src="http://ouwsyml4w.bkt.clouddn.com/IMG_20171126_094346_HDR.jpg" alt="GitHub set up"></p><p><img src="http://ouwsyml4w.bkt.clouddn.com/IMG_20171126_094627_HDR.jpg" alt="GitHub set up"></p><p><img src="http://ouwsyml4w.bkt.clouddn.com/IMG_20171126_094228.jpg" alt="GitHub set up"></p><h2 id="世纪公园秋意浓"><a href="#世纪公园秋意浓" class="headerlink" title="世纪公园秋意浓"></a>世纪公园秋意浓</h2><p><img src="http://ouwsyml4w.bkt.clouddn.com/IMG_20171201_091222_HDR.jpg" alt="GitHub set up"></p><h2 id="第一次去新开放的文博楼"><a href="#第一次去新开放的文博楼" class="headerlink" title="第一次去新开放的文博楼"></a>第一次去新开放的文博楼</h2><p><img src="http://ouwsyml4w.bkt.clouddn.com/IMG_20171202_102151_HDR.jpg" alt="GitHub set up"></p><p><img src="http://ouwsyml4w.bkt.clouddn.com/IMG_20171202_102208_HDR.jpg" alt="GitHub set up"></p><p><img src="http://ouwsyml4w.bkt.clouddn.com/IMG_20171202_102237_HDR.jpg" alt="GitHub set up"></p><p><img src="http://ouwsyml4w.bkt.clouddn.com/IMG_20171202_102308_HDR.jpg" alt="GitHub set up"></p><h2 id="落地的银杏叶好像金箔洒在草坪上一样"><a href="#落地的银杏叶好像金箔洒在草坪上一样" class="headerlink" title="落地的银杏叶好像金箔洒在草坪上一样"></a>落地的银杏叶好像金箔洒在草坪上一样</h2><p><img src="http://ouwsyml4w.bkt.clouddn.com/1bd4023ef7b3fe4f.jpg" alt="GitHub set up"><br>最后一张，怀念的还是你们</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;接着来&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://ouwsyml4w.bkt.clouddn.com/IMG_20171015_111351_HDR.jpg&quot; alt=&quot;GitHub set up&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;校园一景&quot;&gt;&lt;a href=&quot;#校园一景&quot;
+      
+    
+    </summary>
+    
+      <category term="Photographs" scheme="http://yoursite.com/categories/Photographs/"/>
+    
+    
+      <category term="Photographs" scheme="http://yoursite.com/tags/Photographs/"/>
+    
+  </entry>
   
   <entry>
     <title>Photo one</title>
@@ -496,60 +537,6 @@
     
     
       <category term="College" scheme="http://yoursite.com/tags/College/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>说说虚荣</title>
-    <link href="http://yoursite.com/2017/09/10/%E8%AF%B4%E8%AF%B4%E8%99%9A%E8%8D%A3/"/>
-    <id>http://yoursite.com/2017/09/10/说说虚荣/</id>
-    <published>2017-09-10T13:02:52.000Z</published>
-    <updated>2017-09-10T13:53:42.362Z</updated>
-    
-    <content type="html"><![CDATA[<p>我上高中的时候买过一本书《时文选萃》，不是经典名著，也不是畅销书，但是却觉得它很受用。这书是分辑出的，我就买了其中一本。上面有一篇文章是关于虚荣的叫做《聊聊虚荣》。</p><p>虚荣似乎是天生的，每个人都有。有虚荣之心不是什么坏事儿，但虚荣过了头就是坏事儿了。</p><p>有两个同学，一个高个，一个矮个，他们俩都是百米健将，不分伯仲。到了开运动会的前一天晚上，高个的怕输给矮个的，就趁矮个熟睡时，将他的头发剪成了“菜花秃子”，想以此让他不好意思参加比赛。但第二天，矮个的就顶着那个“菜花秃子”头赢得了比赛。</p><p>孟德斯鸠说，有些人的虚荣心，竭力使别人不愉快，想借此引起别人的钦佩，他们设法要出人头地，结果反而更加不如人。结合现实想想也真是，多少人一时将别人“剪”成了“菜花秃子”，最终可能是输得自己练“秃子头”都保不住了。</p><p>当你在别人面前嘲笑显摆的时候就暴露了你的愚蠢，无论你看过多少书，有多么高的地位，多么好的声望。</p><p>实际上，虚荣有无都不会有什么额外的好处或坏处，但很多人都解不了这个套，知识分子不能，名人大家也不能。波普说，每一个人的虚荣都是和他的愚蠢程度相等的。放弃虚荣吧，免得让自己成为一个愚蠢的人。</p><hr><p><img src="http://ouwsyml4w.bkt.clouddn.com/235060-14032P9350538.jpg" alt="GitHub set up"></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;我上高中的时候买过一本书《时文选萃》，不是经典名著，也不是畅销书，但是却觉得它很受用。这书是分辑出的，我就买了其中一本。上面有一篇文章是关于虚荣的叫做《聊聊虚荣》。&lt;/p&gt;
-&lt;p&gt;虚荣似乎是天生的，每个人都有。有虚荣之心不是什么坏事儿，但虚荣过了头就是坏事儿了。&lt;/p&gt;
-&lt;
-      
-    
-    </summary>
-    
-      <category term="Read" scheme="http://yoursite.com/categories/Read/"/>
-    
-    
-      <category term="Read" scheme="http://yoursite.com/tags/Read/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>少年奇幻漂流记的最大感受</title>
-    <link href="http://yoursite.com/2017/09/09/%E5%B0%91%E5%B9%B4%E5%A5%87%E5%B9%BB%E6%BC%82%E6%B5%81%E8%AE%B0%E7%9A%84%E6%9C%80%E5%A4%A7%E6%84%9F%E5%8F%97/"/>
-    <id>http://yoursite.com/2017/09/09/少年奇幻漂流记的最大感受/</id>
-    <published>2017-09-09T13:30:35.000Z</published>
-    <updated>2017-09-09T14:17:38.260Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="http://ouwsyml4w.bkt.clouddn.com/snapshot20170908225129.jpg" alt="GitHub set up"><br>发光的海</p><hr><p><img src="http://ouwsyml4w.bkt.clouddn.com/snapshot20170908223729.jpg" alt="GitHub set up"><br>                                     惆怅的 孟加拉虎</p><hr><ul><li><p>派一直相信上帝，但他最后还是感谢他父亲给他上的那一课，使他终身受益，并救了他的命。</p></li><li><p>他最后还是感谢理查德的存在让他时刻清醒，让他相信可以活下去，最后他能够生存下去与这只孟加拉虎的存在密切相关，可以说是必要条件。</p></li><li><p>老虎在陆地上能够称王，在水里也是游泳健将，但是他不能够让自己飞起来，人类却能。这部电影让我体会到了把人能制造并使用工具作为与动物的最大区别的正确性。</p></li><li><p>多掌握一门技能总是好事，蔡康永有一段话很多人应该听过（这里就不多说了）和这个想法差不多。不管是15岁，18岁还是28岁都这一理论都适用。</p></li><li><p>人不一定胜天，但可以胜过能够胜过的东西，这就是尽全力。</p></li></ul>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;&lt;img src=&quot;http://ouwsyml4w.bkt.clouddn.com/snapshot20170908225129.jpg&quot; alt=&quot;GitHub set up&quot;&gt;&lt;br&gt;发光的海&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;img src=&quot;http://ouwsyml4
-      
-    
-    </summary>
-    
-      <category term="Movie" scheme="http://yoursite.com/categories/Movie/"/>
-    
-    
-      <category term="Movie" scheme="http://yoursite.com/tags/Movie/"/>
     
   </entry>
   
