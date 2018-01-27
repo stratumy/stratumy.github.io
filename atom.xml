@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-01-24T15:23:46.036Z</updated>
+  <updated>2018-01-27T14:42:43.647Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>《写给大家看的PPT设计之书》读后笔记</title>
+    <link href="http://yoursite.com/2018/01/26/%E5%9B%A2%E9%98%9F%E5%90%88%E4%BD%9C%E4%B8%AD%E7%9A%84%E4%BF%A1%E4%BB%BB/"/>
+    <id>http://yoursite.com/2018/01/26/团队合作中的信任/</id>
+    <published>2018-01-26T15:49:33.000Z</published>
+    <updated>2018-01-27T14:42:43.647Z</updated>
+    
+    <content type="html"><![CDATA[<p>这本书已经快看完了，但是看到第11章综合运用的时候我才感觉到它比我想的要难得多，从一套PPT中看出来所运用的技巧，这确实是太困难了。</p><h2 id="在设计流程开始前需要遵循的四原则"><a href="#在设计流程开始前需要遵循的四原则" class="headerlink" title="在设计流程开始前需要遵循的四原则"></a>在设计流程开始前需要遵循的四原则</h2><ul><li><p><strong>清晰</strong>——我理解的清晰即你要表达的意思观点在你心里清晰，将它清晰地呈现在几个平面上，让观众看起来清晰，能够迅速明白你要表达的主要观点。也就是要重点突出。</p></li><li><p><strong>切题</strong>——即PPT上所有的内容都要看起来和你要表达的主题有关，不为了不留空白而胡乱添加贴纸、logol等。</p></li><li><p><strong>动画</strong>——动画好像是一个锦上添花的东西，在适当的地方插入一个动画效果，有助于观众了解幻灯片之间的关系，以及（或者）增加一定的趣味性。因为是锦上添花，所以要是没有锦，花也就成了多余的了，显得尴尬。</p></li><li><p><strong>情节</strong>——可以联想上语文课时老师让梳理情节这一环节，这里的情节和语文课上老师说的差不多，一是要有逻辑、条理，二是要有故事性，即人性化、人文性，不是平平淡淡地把整个PPT叙述一遍，还有就是开头和结尾是怎么样的（虽然我现在也不清楚应该是怎么样的）。</p></li></ul><h2 id="设计四原则"><a href="#设计四原则" class="headerlink" title="设计四原则"></a>设计四原则</h2><ul><li><p><strong>对比</strong>——哪里运用了字体、颜色、大小以及布局的对比。</p><pre><code>对比会让重点突出，运用这些对比有效突出主题，让人印象深刻。</code></pre></li><li><p><strong>重复</strong>——重复的地方使PPT看起来更像一个整体。好比你和你的姐姐眉眼长得像，别人就会很自然地觉得你们两个可能是一家人。</p></li><li><p><strong>对齐</strong>——不是一味求齐！不是一味求齐！不是一味求齐！全部幻灯片中各要素的风格一致，通过对齐把你想表达的一个整体的东西在视觉上是相关联的。</p></li><li><p><strong>亲密性</strong>——既有表面上的亲密，也有知识性上的亲密。</p></li></ul><h2 id="综合运用"><a href="#综合运用" class="headerlink" title="综合运用"></a>综合运用</h2><p>称这是最难的一个过程，但是如果不会综合运用，我觉得前面这些也没什么优胜性的用处了。</p><p>总之，这些原则兼顾质量与形式、单个与整体。形式上最重要的就是看起来有关系。还有一点没有说到，但是是很重要的——<strong>删繁就简</strong></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;这本书已经快看完了，但是看到第11章综合运用的时候我才感觉到它比我想的要难得多，从一套PPT中看出来所运用的技巧，这确实是太困难了。&lt;/p&gt;
+&lt;h2 id=&quot;在设计流程开始前需要遵循的四原则&quot;&gt;&lt;a href=&quot;#在设计流程开始前需要遵循的四原则&quot; class=&quot;heade
+      
+    
+    </summary>
+    
+      <category term="Read" scheme="http://yoursite.com/categories/Read/"/>
+    
+    
+      <category term="Read" scheme="http://yoursite.com/tags/Read/"/>
+    
+  </entry>
   
   <entry>
     <title>幻灯片的对齐——《写给大家看的PPT设计之书》（第九章）</title>
@@ -506,32 +532,6 @@
     
     
       <category term="Math" scheme="http://yoursite.com/tags/Math/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>晋商之道</title>
-    <link href="http://yoursite.com/2017/11/09/%E6%99%8B%E5%95%86%E4%B9%8B%E9%81%93/"/>
-    <id>http://yoursite.com/2017/11/09/晋商之道/</id>
-    <published>2017-11-09T13:04:25.000Z</published>
-    <updated>2017-11-09T14:07:26.410Z</updated>
-    
-    <content type="html"><![CDATA[<p>简述一下中国第一家票号：“日昇昌票号”的用人和风险防范。</p><h2 id="用人四条基本法则："><a href="#用人四条基本法则：" class="headerlink" title="用人四条基本法则："></a>用人四条基本法则：</h2><h3 id="经理负责制"><a href="#经理负责制" class="headerlink" title="经理负责制"></a>经理负责制</h3><h3 id="俸股制"><a href="#俸股制" class="headerlink" title="俸股制"></a>俸股制</h3><p>分为银股和顶身股。</p><p>其中顶身股的创制尤为机巧，保证了劳资关系和激励约束等方面的和谐制衡。银股分为正本和副本，即名义资本和实际资本。正本为股东的合约投资，以账期按股分红。</p><p>副本有二：一是东家、经理、伙计在结账期所分红利的 $提留$ ,票号专称“统事”或“获本”，不分红，只得息，不能随意抽取，以备防不测。二是东家在票号的存款。</p><p>这正是：“薪金百两是外人，身股一厘自己人”。对于现代的 $股份制改革$ 有一定的借鉴意义。</p><h3 id="学徒制"><a href="#学徒制" class="headerlink" title="学徒制"></a>学徒制</h3><p>初入票号的学徒须在总号经受为期三年的极为严格的学徒训练。</p><p>第一年干杂活，以考察品德为主，苦其心志，劳其筋骨，以除虚伪，节情欲，敦品行，贵忠诚，鄙利己，奉博爱，喜辛苦，戒奢华。</p><h3 id="同人担保制"><a href="#同人担保制" class="headerlink" title="同人担保制"></a>同人担保制</h3><p>必须有同乡和殷实商户做担保，“用乡不用亲”。以及有类似于今天人事工作所提倡的“举荐问责”制度。当时的信用环境中商业经营很重要的一个手段就是担保（或联保）、相与（结盟），讲究的是“一荣俱荣，一损俱损”。人想学坏都难，有多少双眼睛八小时内外都盯着你呢。</p><h2 id="严密的风险防范措施"><a href="#严密的风险防范措施" class="headerlink" title="严密的风险防范措施"></a>严密的风险防范措施</h2><p>异地汇兑两个关键风险点：一是汇票防伪，二是银两兑付。</p><h3 id="汇票防伪"><a href="#汇票防伪" class="headerlink" title="汇票防伪"></a>汇票防伪</h3><p>一张汇票涵盖了今天票钞管理的纸张、水印、编码、登记、验印、书写规范等多项技术手段。</p><p>密押技术：以不同汉语诗句中的不同单字来代指客户汇兑的金额和时间，（加之严格的内部管理制度）在后近百年内无一造假冒兑。</p><h3 id="银两兑付"><a href="#银两兑付" class="headerlink" title="银两兑付"></a>银两兑付</h3><p>银色歌和平码歌，雷履泰的一大贡献就是确立了当时平色余利的恰当标准，成为票号一项相当好的收入。用现代银行业术语来表达，这就是典型的套利业务。</p><h2 id="票号待解之谜"><a href="#票号待解之谜" class="headerlink" title="票号待解之谜"></a>票号待解之谜</h2><ul><li><p>密押如何在汇票上体现，如何传递，是否告知客户本人等关键问题；</p></li><li><p>对于资金寸头问题，现在只知晓日升昌是利用 $浮动汇费、存贷利率差$ 及少量投资进行微调，至于如何调拨白银已解决各分店资金平衡难题也无从考证。</p></li></ul>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;简述一下中国第一家票号：“日昇昌票号”的用人和风险防范。&lt;/p&gt;
-&lt;h2 id=&quot;用人四条基本法则：&quot;&gt;&lt;a href=&quot;#用人四条基本法则：&quot; class=&quot;headerlink&quot; title=&quot;用人四条基本法则：&quot;&gt;&lt;/a&gt;用人四条基本法则：&lt;/h2&gt;&lt;h3 id=&quot;经
-      
-    
-    </summary>
-    
-      <category term="Read" scheme="http://yoursite.com/categories/Read/"/>
-    
-    
-      <category term="Read" scheme="http://yoursite.com/tags/Read/"/>
     
   </entry>
   
