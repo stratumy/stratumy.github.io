@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Stratumy</title>
   
-  <subtitle>Stratumy Blog(贾晓燕的博客)</subtitle>
+  <subtitle>Stratumy Blog</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
@@ -10,7 +10,7 @@
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>JiaXiaoYan</name>
+    <name>JIA</name>
     
   </author>
   
