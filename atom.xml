@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-04-16T10:41:25.976Z</updated>
+  <updated>2018-04-16T10:43:01.691Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://yoursite.com/2018/04/16/Access-%E7%AE%80%E5%8D%95%E5%87%BD%E6%95%B0/"/>
     <id>http://yoursite.com/2018/04/16/Access-简单函数/</id>
     <published>2018-04-16T09:58:22.000Z</published>
-    <updated>2018-04-16T10:41:25.976Z</updated>
+    <updated>2018-04-16T10:43:01.691Z</updated>
     
-    <content type="html"><![CDATA[<ul><li><p>Like(“?云?”)</p></li><li><p>出生年份:Year(出生日期)</p></li><li><p>In(“1987”,”1989”)</p></li><li><p>Left([字段名称]，参数)=条件</p><blockquote><p>Left([姓名],1)=”王”</p></blockquote></li><li><p>Len([字段名])&gt;&lt;=条件</p><blockquote><p>Len([姓名])=3 查询姓名为3个字长度的</p></blockquote></li><li><p>Mid([字段名],2,1)=条件</p><blockquote><p>Mid([姓名],2,1)=”云 姓名中第二个字为”云”的</p></blockquote></li></ul><p><strong>求年龄</strong>:</p><ul><li><p>Year(Data())-Year([<del>出生日期</del>])</p></li><li><p>Int((Data()-[出生日期])/365)</p></li><li><p>Round((Data()-[出生日期])/365,0)</p></li></ul><p>[^sample_footnote] 出生日期划线处为字段名</p>]]></content>
+    <content type="html"><![CDATA[<ul><li><p>Like(“?云?”)</p></li><li><p>出生年份:Year(出生日期)</p></li><li><p>In(“1987”,”1989”)</p></li><li><p>Left([字段名称]，参数)=条件</p><blockquote><p>Left([姓名],1)=”王”</p></blockquote></li><li><p>Len([字段名])&gt;&lt;=条件</p><blockquote><p>Len([姓名])=3 查询姓名为3个字长度的</p></blockquote></li><li><p>Mid([字段名],2,1)=条件</p><blockquote><p>Mid([姓名],2,1)=”云 姓名中第二个字为”云”的</p></blockquote></li></ul><p><strong>求年龄</strong>:</p><ul><li><p>Year(Data())-Year([<del>出生日期</del>])</p></li><li><p>Int((Data()-[出生日期])/365)</p></li><li><p>Round((Data()-[出生日期])/365,0)</p></li></ul><p>$出生日期划线处为字段名$</p>]]></content>
     
     <summary type="html">
     
