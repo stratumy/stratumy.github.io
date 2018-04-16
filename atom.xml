@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-03-28T10:20:54.647Z</updated>
+  <updated>2018-04-16T10:32:20.196Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,44 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Word Day13</title>
-    <link href="http://yoursite.com/2018/03/28/Word-Day13-1/"/>
-    <id>http://yoursite.com/2018/03/28/Word-Day13-1/</id>
-    <published>2018-03-28T10:20:54.000Z</published>
-    <updated>2018-03-28T10:20:54.647Z</updated>
+    <title>Access2010 简单函数</title>
+    <link href="http://yoursite.com/2018/04/16/Access-%E7%AE%80%E5%8D%95%E5%87%BD%E6%95%B0/"/>
+    <id>http://yoursite.com/2018/04/16/Access-简单函数/</id>
+    <published>2018-04-16T09:58:22.000Z</published>
+    <updated>2018-04-16T10:32:20.196Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li><p>Like(“?云?”)</p></li><li><p>出生年份:Year(出生日期)</p></li><li><p>In(“1987”,”1989”)</p></li><li><p>Left([字段名称]，参数)=条件</p><blockquote><p>Left([姓名],1)=”王”</p></blockquote></li><li><p>Len([字段名])&gt;&lt;=条件</p><blockquote><p>Len([姓名])=3 查询姓名为3个字长度的</p></blockquote></li><li><p>Mid([字段名],2,1)=条件</p><blockquote><p>Mid([姓名],2,1)=”云 姓名中第二个字为”云”的</p></blockquote></li></ul><p><strong>求年龄</strong>:</p><ul><li><p>Year(Data())-Year([<del>出生日期</del>])</p></li><li><p>Int((Data()-[出生日期])/365)</p></li><li><p>Round((Data()-[出生日期])/365,0)</p></li></ul><p>Command 出生日期划线处为字段名</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Like(“?云?”)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;出生年份:Year(出生日期)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;In(“1987”,”1989”)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Left([字段名称]，参数)=条件&lt;/p&gt;
+&lt;blockqu
+      
+    
+    </summary>
+    
+      <category term="Course" scheme="http://yoursite.com/categories/Course/"/>
+    
+    
+      <category term="Course" scheme="http://yoursite.com/tags/Course/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Writing One</title>
+    <link href="http://yoursite.com/2018/04/11/Writing-One/"/>
+    <id>http://yoursite.com/2018/04/11/Writing-One/</id>
+    <published>2018-04-11T12:19:08.000Z</published>
+    <updated>2018-04-11T12:19:08.033Z</updated>
     
     <summary type="html">
     
@@ -488,32 +521,6 @@
     
     
       <category term="Word" scheme="http://yoursite.com/tags/Word/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>屌丝逆袭后还是屌丝吗</title>
-    <link href="http://yoursite.com/2017/12/14/%E5%B1%8C%E4%B8%9D%E9%80%86%E8%A2%AD%E5%90%8E%E8%BF%98%E6%98%AF%E5%B1%8C%E4%B8%9D%E5%90%97/"/>
-    <id>http://yoursite.com/2017/12/14/屌丝逆袭后还是屌丝吗/</id>
-    <published>2017-12-14T14:18:09.000Z</published>
-    <updated>2017-12-22T14:56:03.393Z</updated>
-    
-    <content type="html"><![CDATA[<p>屌丝这个词在一开始是网络亚文化的产物。屌丝文化是一种独特的文化，它夹杂着性压抑和性解放、对社会经济政治秩序的不满和反抗、独特的减压方式、身份认同、娱乐过度和网络化等等。</p><p>然而屌丝逆袭之后还是屌丝吗？屌丝往往和矮矬穷联系在一起，对应的就是高富帅。韩寒，五月天经常自称为屌丝。他们好像和矮矬穷也没什么关系。屌丝的界限模糊，没有标准，暂且把韩寒这一类人看做是精神上和屌丝有共鸣吧，也可以把他们当做逆袭后的屌丝。所以屌丝逆袭之后不一定就不是屌丝了，逆袭可能是指物质上的逆袭，而精神上仍停留在以前的状态。就像暴发户一夜之间变富，但是精神文化素质却不会一夜之间变得高级起来。屌丝最大的亮点就是自嘲，自我设障，降低成功期望和失败后的心理打击。以放低自己来保护自己，就像自己要跳下去了，本来要从十米的高度来跳，屌丝把这个高度降到了五米甚至更低。屌丝也有逆袭成高富帅的，也有逆袭不成功而成为更强的屌丝的。</p><p>逆袭为高富帅的他们之前的屌丝身份明显是对自己的一种暂时性保护，或者说是一种通往成功的方法，这一类屌丝我觉得可以和韩信，勾践相类比了，都是能够以一时的低姿态为以后的登顶做铺垫。这些人被这样一解释听起来与屌丝的气质不太相符，确实我觉得这类人只是看起来像屌丝而已。当然也不排除屌丝被感化，思想受到了改造升华而退出屌丝的行列。</p><p>逆袭不成功，有两种可能：一是自己本来敏感的自尊心受到了创伤，变成了一个比以前还严重的屌丝；第二种就厉害了，他们的内心变得更加强大，脸皮更加的厚，成为了屌丝界的翘楚。</p><p>屌丝本来没有极度抱怨社会不公，嫉妒高富帅，白富美的心态。他们只是通过自嘲来宣泄自己内心的压力，同时对这个社会以一种别样的方式控诉着，想要改变却没有足够的决心与能力。只能在泥沼里打个滚引起别人的注意力，刷新自己的存在感，好像这样就能缓解他们所受到的不好的待遇。他们最缺乏的就是行动力，有时候用酸溜溜的话来让你觉得不舒服，一比较，他们反而会减轻自己的某些不好的感觉。</p><p>不管怎么样，每个人都有想要的东西，房子、车子、爱人等等，但是想要得到这些东西就应该有自己的行动。</p><hr><p>今年又流行起了佛系青春，简单说就是表面风平浪静，用一种自己特有的消耗青春的方式通过自嘲表达自己的无奈和妥协。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;屌丝这个词在一开始是网络亚文化的产物。屌丝文化是一种独特的文化，它夹杂着性压抑和性解放、对社会经济政治秩序的不满和反抗、独特的减压方式、身份认同、娱乐过度和网络化等等。&lt;/p&gt;
-&lt;p&gt;然而屌丝逆袭之后还是屌丝吗？屌丝往往和矮矬穷联系在一起，对应的就是高富帅。韩寒，五月天经常
-      
-    
-    </summary>
-    
-      <category term="Mood" scheme="http://yoursite.com/categories/Mood/"/>
-    
-    
-      <category term="Mood" scheme="http://yoursite.com/tags/Mood/"/>
     
   </entry>
   
