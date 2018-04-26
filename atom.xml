@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-04-22T08:04:36.360Z</updated>
+  <updated>2018-04-26T13:34:45.644Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>AnLine——T系列区块链简述</title>
+    <link href="http://yoursite.com/2018/04/23/%E5%8C%BAAnLine%E2%80%94%E2%80%94T%E7%B3%BB%E5%88%97%E5%8C%BA%E5%9D%97%E9%93%BE%E7%AE%80%E8%BF%B0/"/>
+    <id>http://yoursite.com/2018/04/23/区AnLine——T系列区块链简述/</id>
+    <published>2018-04-23T14:18:06.000Z</published>
+    <updated>2018-04-26T13:34:45.644Z</updated>
+    
+    <content type="html"><![CDATA[<p>互联网保险公司众安保险已经对区块链技术进行了某些方面的应用，企业团队可以基于众安这个区块链云平台Anlink构建相关领域的应用，免去搭建底层技术的精力和成本。</p><p>而在安链云平台上存在着T系列区块链，T系列区块链主要包括钛合约、钛存证、钛空舱和钛阳四部分。它们分别对应的是电子签章、安全性、存储、唯一性(授权第三方)。</p><ul><li>钛合约</li></ul><p>钛合约可以说是电子签章，是签名阶段。它有四个特点：一是随时随地能够让客户进行签名，利用互联网为客户创造了便利，同时也为企业节省了人力成本。二是保证信息的真实性，通过区块链上的信息共享打通公安、银联、企业工商信息，从而保证客户填写的信息的真实性。三是对客户隐私的尊重，对用户所填文件加密，填写过程不接触用户原文。四是利用区块链的不可篡改性进行区块链存证，保护信息的安全性。</p><ul><li>钛存证</li></ul><p>钛存证是对区块链的典型应用，哈希指纹、去中心化、信息溯源。这些都是对信息安全的保护。</p><ul><li>钛空舱</li></ul><p>主要是存储方面的功能，对文件进行分布式存储，，并##多节点备份还原##，适应灾备需求。信息访问安全，访问存储资源需通过服务网关授权访问，保护信息的安全性。</p><ul><li>钛阳</li></ul><p>强调的是文件信息的唯一性，链上账户统一管理，用户将属性鉴权授予第三方，之后在用户授权下，不同机构可以共享用户的鉴权信息。唯一的信息在链上却可以供很多人用，但是有一个问题还不太清楚，就是多方机构获取属性鉴权，那么用户的信息是否随时都能被查看呢？</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;互联网保险公司众安保险已经对区块链技术进行了某些方面的应用，企业团队可以基于众安这个区块链云平台Anlink构建相关领域的应用，免去搭建底层技术的精力和成本。&lt;/p&gt;
+&lt;p&gt;而在安链云平台上存在着T系列区块链，T系列区块链主要包括钛合约、钛存证、钛空舱和钛阳四部分。它们分别
+      
+    
+    </summary>
+    
+      <category term="Insurance" scheme="http://yoursite.com/categories/Insurance/"/>
+    
+    
+      <category term="Insurance" scheme="http://yoursite.com/tags/Insurance/"/>
+    
+  </entry>
   
   <entry>
     <title>区块链部分弊端——骗保的应用</title>
@@ -491,35 +517,6 @@
     
     
       <category term="Word" scheme="http://yoursite.com/tags/Word/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>2017总结</title>
-    <link href="http://yoursite.com/2017/12/22/2017%E6%80%BB%E7%BB%93/"/>
-    <id>http://yoursite.com/2017/12/22/2017总结/</id>
-    <published>2017-12-22T14:41:02.000Z</published>
-    <updated>2017-12-26T14:41:57.603Z</updated>
-    
-    <content type="html"><![CDATA[<p>2017年是我的一个转角之年，从高中转到大学。</p><p>这一年也是差别巨大的前两年。</p><p>六月八号之前我在紧张的复习备考中，之后我逐渐悠闲下来，渐渐堕落。</p><p>这一年包括了我人生中的两个重大时期：高考和离家上大学。</p><p>前半年一直处于紧张的状态之中，但是结果还不错，对得起自己的努力了。后半年就有点截然相反了，进入大学放纵自己，成绩不好，对大学生活有很多不适应。也加入了两个社团，两个部门组织，目前都没有在相关社团组织做出什么成绩，准备明年竞选主管助理。认识了一些人很好的学姐学长和同级不同班的小朋友。</p><p>高考完后的那个假期也认识了一个很好的哥哥(不知道为什么后来取消我的网易云关注，还设置权限，很桑心了(ؔᶿ̷⌔ؔᶿ̷))，但是他带给了我很多。他让我发现了我看电影的兴趣，还推荐给我很多好书，正在看一本《PPT设计之书》看了一半了。还帮我搭建了一个个人博客，但是我可能是没有像他预期的那样写吧，可能会有点失望(又很桑心了)。还在很多其他方面帮助我，真的很感谢他。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;2017年是我的一个转角之年，从高中转到大学。&lt;/p&gt;
-&lt;p&gt;这一年也是差别巨大的前两年。&lt;/p&gt;
-&lt;p&gt;六月八号之前我在紧张的复习备考中，之后我逐渐悠闲下来，渐渐堕落。&lt;/p&gt;
-&lt;p&gt;这一年包括了我人生中的两个重大时期：高考和离家上大学。&lt;/p&gt;
-&lt;p&gt;前半年一直处于紧张
-      
-    
-    </summary>
-    
-      <category term="Life" scheme="http://yoursite.com/categories/Life/"/>
-    
-    
-      <category term="Life" scheme="http://yoursite.com/tags/Life/"/>
     
   </entry>
   
