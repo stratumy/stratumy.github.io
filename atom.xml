@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-05-27T10:39:34.802Z</updated>
+  <updated>2018-06-01T08:49:11.232Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>均衡价格理论</title>
+    <link href="http://yoursite.com/2018/05/27/%E9%9C%80%E5%9D%87%E8%A1%A1%E4%BB%B7%E6%A0%BC%E7%90%86%E8%AE%BA/"/>
+    <id>http://yoursite.com/2018/05/27/需均衡价格理论/</id>
+    <published>2018-05-27T10:43:27.000Z</published>
+    <updated>2018-06-01T08:49:11.232Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="政府限价"><a href="#政府限价" class="headerlink" title="政府限价"></a>政府限价</h2><p><img src="http://ouwsyml4w.bkt.clouddn.com/IMG_20180601_155505.jpg" alt="GitHub set up"></p><p>上面这幅图中的两个图分别是政府限价的两种情况：支持价格（最低限价）和限制价格（最高限价）。</p><ul><li><p>从第一张图中可以看出来政府规定价格不得低于Pf，但是均衡价格应该是PE，如果价格在PE的基础上升高就会出现供给过剩（需求缺口）的情况，比如国家的农业支持价格政策。</p></li><li><p>第二张图是政府最高限价的例子，规定商品价格最高不得超过PC，PC这一价格明显低于均衡价格，就会造成需求过剩（供给缺口）。</p></li></ul><p>比如在新中国初期因为供给不足而采取限价政策、排队机制等。在这种情况下往往也会因供给不足而出现黑市交易。</p><h2 id="政府税收对均衡价格的影响"><a href="#政府税收对均衡价格的影响" class="headerlink" title="政府税收对均衡价格的影响"></a>政府税收对均衡价格的影响</h2><p><img src="http://ouwsyml4w.bkt.clouddn.com/IMG_20180601_155143.jpg" alt="GitHub set up"></p><ul><li><p>从这个图表中可以看出来这是政府对企业实行增加税收，此时供给减少、均衡价格上升。</p></li><li><p>除此之外我们还可以从这张图表中算出在政府征收的税中消费者承担了多少、企业承担多少：</p></li></ul><p>TE1是政府的税收，P1P0是企业将税收转嫁给消费者的部分，那么消费者应该承担的是：$P1P0 * P1E1$<br>企业承担的是：两个长方形虚线框的下半部分</p><ul><li>在这幅图中可以看出消费者承担的要比企业承担的稍微少一点，那是因为这张图上的商品的需求弹性较大，一般来说需求弹性越大的商品消费者承受的越少，因为需求弹性大表示这一商品一旦提高价格需求就会大量减少。</li></ul><p>同理，当政府对生产者进行补贴，补贴也会被两者共同分享。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;政府限价&quot;&gt;&lt;a href=&quot;#政府限价&quot; class=&quot;headerlink&quot; title=&quot;政府限价&quot;&gt;&lt;/a&gt;政府限价&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;http://ouwsyml4w.bkt.clouddn.com/IMG_20180601_155505
+      
+    
+    </summary>
+    
+      <category term="Course" scheme="http://yoursite.com/categories/Course/"/>
+    
+    
+      <category term="Course" scheme="http://yoursite.com/tags/Course/"/>
+    
+  </entry>
   
   <entry>
     <title>需求供给理论——均衡价格理论前奏</title>
@@ -484,34 +509,6 @@
       
         &lt;p&gt;这本书已经快看完了，但是看到第11章综合运用的时候我才感觉到它比我想的要难得多，从一套PPT中看出来所运用的技巧，这确实是太困难了。&lt;/p&gt;
 &lt;h2 id=&quot;在设计流程开始前需要遵循的四原则&quot;&gt;&lt;a href=&quot;#在设计流程开始前需要遵循的四原则&quot; class=&quot;heade
-      
-    
-    </summary>
-    
-      <category term="Read" scheme="http://yoursite.com/categories/Read/"/>
-    
-    
-      <category term="Read" scheme="http://yoursite.com/tags/Read/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>幻灯片的对齐——《写给大家看的PPT设计之书》（第九章）</title>
-    <link href="http://yoursite.com/2018/01/24/%E5%B9%BB%E7%81%AF%E7%89%87%E7%9A%84%E5%AF%B9%E9%BD%90/"/>
-    <id>http://yoursite.com/2018/01/24/幻灯片的对齐/</id>
-    <published>2018-01-24T14:36:08.000Z</published>
-    <updated>2018-01-24T15:23:46.036Z</updated>
-    
-    <content type="html"><![CDATA[<p>做一张好的幻灯片需要很多，对齐是其需要注意的一点。需要注意对齐意思就是让观众看起来不会感到做PPT的人没有逻辑，没有用意，是随便乱做的。</p><p>有幻灯片内部的对齐，也有幻灯片组的对齐，以及适当地打破固有的对齐模式。</p><ul><li><p>幻灯片内部的对齐就是处理好图片文字的关系，这个关系需要从形式上来表现出来，，比如一张幻灯片里有两张图片，如果将它们随意放在背景板上，不考虑对齐，会让人感觉很随意，这两张图就是被随意地放在一块，不容易让人感觉到它们一起出现的意义。如果将它们以一种对齐方式对齐（可以通过用铅笔画线的方式查看对齐效果），让它们看起来是有关系的，这样就会让观众体验更好。文字性的内容在PPT上出现量尽量为少比较好，少量的文字可以通过统一沿着一条线来对齐，也可以顺便统一部分文字字体大小。</p></li><li><p>幻灯片组的对齐就是在幻灯片浏览视图下几张幻灯片整体看起来具有统一性，每张幻灯片之间能够发现其样式的统一，感觉它们是一组的、一系列的，而不是四拼八凑、杂乱无章。</p></li><li><p>最后适当打破其固有的对其模式就是的当每张幻灯片内容的组合形式大致相仿时，那么就可以有意在某张幻灯片中打乱这个模式，形成万绿丛中一点红的效果。</p></li></ul><p>上图的效果可能会更好，但是我想用文字来表达出我看完这一章所记到的内容。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;做一张好的幻灯片需要很多，对齐是其需要注意的一点。需要注意对齐意思就是让观众看起来不会感到做PPT的人没有逻辑，没有用意，是随便乱做的。&lt;/p&gt;
-&lt;p&gt;有幻灯片内部的对齐，也有幻灯片组的对齐，以及适当地打破固有的对齐模式。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;幻灯片内部的对齐就
       
     
     </summary>
