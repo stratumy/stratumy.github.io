@@ -1,0 +1,901 @@
+<!DOCTYPE html>
+
+
+
+  
+
+
+<html class="theme-next pisces use-motion" lang="en">
+<head>
+  <meta charset="UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta name="theme-color" content="#222">
+
+
+
+
+
+
+
+
+
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <link href="/lib/fancybox/source/jquery.fancybox.css?v=2.1.5" rel="stylesheet" type="text/css" />
+
+
+
+
+  
+  
+  
+  
+
+  
+    
+    
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+    
+    
+    <link href="fonts.useso.com/css?family=Lato:300,300italic,400,400italic,700,700italic&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+  
+
+
+
+
+
+
+<link href="/lib/font-awesome/css/font-awesome.min.css?v=4.6.2" rel="stylesheet" type="text/css" />
+
+<link href="/css/main.css?v=5.1.2" rel="stylesheet" type="text/css" />
+
+
+  <meta name="keywords" content="Course," />
+
+
+
+
+
+  <link rel="alternate" href="/atom.xml" title="Stratumy" type="application/atom+xml" />
+
+
+
+
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?v=5.1.2" />
+
+
+
+
+
+
+<meta name="description" content="导论从生产角度分析厂商的供给，讨论在不同生产周期里厂商在要素价格既定和投入既定的情况下，如何进行要素投入和规模选择，使自己生产行为最优化，实现既定投入下产出最大或既定产出下投入最小。 主要概念：短期、长期分类、边际生产力递减 $在这里把厂商的生产目标定的是支出最小化或者是收入最大化，因此在一些计算体中问的也是厂商的成本和产量。$ 短期生产 短期生产周期中部分要素可变（可变成本），部分要素不可变（固">
+<meta name="keywords" content="Course">
+<meta property="og:type" content="article">
+<meta property="og:title" content="生产理论">
+<meta property="og:url" content="http://yoursite.com/2018/06/07/生产理论/index.html">
+<meta property="og:site_name" content="Stratumy">
+<meta property="og:description" content="导论从生产角度分析厂商的供给，讨论在不同生产周期里厂商在要素价格既定和投入既定的情况下，如何进行要素投入和规模选择，使自己生产行为最优化，实现既定投入下产出最大或既定产出下投入最小。 主要概念：短期、长期分类、边际生产力递减 $在这里把厂商的生产目标定的是支出最小化或者是收入最大化，因此在一些计算体中问的也是厂商的成本和产量。$ 短期生产 短期生产周期中部分要素可变（可变成本），部分要素不可变（固">
+<meta property="og:locale" content="en">
+<meta property="og:image" content="http://ouwsyml4w.bkt.clouddn.com/qq_pic_merged_1528457339641%20%282%29.jpg">
+<meta property="og:image" content="http://ouwsyml4w.bkt.clouddn.com/qq_pic_merged_1528457313576.jpg">
+<meta property="og:image" content="http://ouwsyml4w.bkt.clouddn.com/qq_pic_merged_1528457280744.jpg">
+<meta property="og:image" content="http://ouwsyml4w.bkt.clouddn.com/qq_pic_merged_1528457299829.jpg">
+<meta property="og:image" content="http://ouwsyml4w.bkt.clouddn.com/IMG_20180601_155143.jpg">
+<meta property="og:updated_time" content="2018-06-09T01:26:19.106Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="生产理论">
+<meta name="twitter:description" content="导论从生产角度分析厂商的供给，讨论在不同生产周期里厂商在要素价格既定和投入既定的情况下，如何进行要素投入和规模选择，使自己生产行为最优化，实现既定投入下产出最大或既定产出下投入最小。 主要概念：短期、长期分类、边际生产力递减 $在这里把厂商的生产目标定的是支出最小化或者是收入最大化，因此在一些计算体中问的也是厂商的成本和产量。$ 短期生产 短期生产周期中部分要素可变（可变成本），部分要素不可变（固">
+<meta name="twitter:image" content="http://ouwsyml4w.bkt.clouddn.com/qq_pic_merged_1528457339641%20%282%29.jpg">
+
+
+
+<script type="text/javascript" id="hexo.configurations">
+  var NexT = window.NexT || {};
+  var CONFIG = {
+    root: '/',
+    scheme: 'Pisces',
+    sidebar: {"position":"left","display":"post","offset":12,"offset_float":12,"b2t":true,"scrollpercent":true,"onmobile":false},
+    fancybox: true,
+    tabs: true,
+    motion: true,
+    duoshuo: {
+      userId: '0',
+      author: 'Author'
+    },
+    algolia: {
+      applicationID: '',
+      apiKey: '',
+      indexName: '',
+      hits: {"per_page":10},
+      labels: {"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}
+    }
+  };
+</script>
+
+
+
+  <link rel="canonical" href="http://yoursite.com/2018/06/07/生产理论/"/>
+
+
+
+
+
+  <title>生产理论 | Stratumy</title>
+  
+
+
+
+
+
+
+
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" lang="en">
+
+  
+  
+    
+  
+
+  <div class="container sidebar-position-left page-post-detail ">
+    <div class="headband"></div>
+
+    <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-wrapper">
+  <div class="site-meta ">
+    
+
+    <div class="custom-logo-site-title">
+      <a href="/"  class="brand" rel="start">
+        <span class="logo-line-before"><i></i></span>
+        <span class="site-title">Stratumy</span>
+        <span class="logo-line-after"><i></i></span>
+      </a>
+    </div>
+      
+        <p class="site-subtitle">Stratumy Blog</p>
+      
+  </div>
+
+  <div class="site-nav-toggle">
+    <button>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+    </button>
+  </div>
+</div>
+
+<nav class="site-nav">
+  
+
+  
+    <ul id="menu" class="menu">
+      
+        
+        <li class="menu-item menu-item-home">
+          <a href="/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-home"></i> <br />
+            
+            Home
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-categories">
+          <a href="/categories/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-th"></i> <br />
+            
+            Categories
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-about">
+          <a href="/about/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-user"></i> <br />
+            
+            About
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-archives">
+          <a href="/archives/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-archive"></i> <br />
+            
+            Archives
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-tags">
+          <a href="/tags/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-tags"></i> <br />
+            
+            Tags
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-sitemap">
+          <a href="/sitemap.xml" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-sitemap"></i> <br />
+            
+            Sitemap
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-commonweal">
+          <a href="/404/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-heartbeat"></i> <br />
+            
+            Commonweal 404
+          </a>
+        </li>
+      
+
+      
+    </ul>
+  
+
+  
+</nav>
+
+
+
+ </div>
+    </header>
+
+    <main id="main" class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          <div id="content" class="content">
+            
+
+  <div id="posts" class="posts-expand">
+    
+
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
+  
+  
+  
+  <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="http://yoursite.com/2018/06/07/生产理论/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="JIA">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/images/avatar.gif">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Stratumy">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">生产理论</h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">Posted on</span>
+              
+              <time title="Post created" itemprop="dateCreated datePublished" datetime="2018-06-07T17:37:37+08:00">
+                2018-06-07
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+            <span class="post-category" >
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">In</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/Course/" itemprop="url" rel="index">
+                    <span itemprop="name">Course</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        <h2 id="导论"><a href="#导论" class="headerlink" title="导论"></a>导论</h2><p>从生产角度分析厂商的供给，讨论在不同生产周期里厂商在要素价格既定和投入既定的情况下，如何进行要素投入和规模选择，使自己生产行为最优化，实现既定投入下产出最大或既定产出下投入最小。</p>
+<h2 id="主要概念："><a href="#主要概念：" class="headerlink" title="主要概念："></a>主要概念：</h2><p>短期、长期分类、边际生产力递减</p>
+<p>$在这里把厂商的生产目标定的是支出最小化或者是收入最大化，因此在一些计算体中问的也是厂商的成本和产量。$</p>
+<h2 id="短期生产"><a href="#短期生产" class="headerlink" title="短期生产"></a>短期生产</h2><ul>
+<li><p>短期生产周期中部分要素可变（可变成本），部分要素不可变（固定成本）。不可变的部分正是因为时间太短，短到来不及改变。在长期生产中，所有要素都有时间来做出改变。</p>
+</li>
+<li><p>依然是为了讨论简便，这里将短期生产函数中以资本（K）和劳动（L）代指固定生产要素和可变生产要素的投入。<br>$Q=f(·K,L)$    （点表示K不变，其实在一般的函数中表示出来的只有L）</p>
+</li>
+</ul>
+<p>总产量：$Q=f(L)$</p>
+<p>平均产量：$AP L=Q/L$</p>
+<p>边际产量：$MP L=dQ/dL$</p>
+<h3 id="这三个函数对应的曲线之间的关系："><a href="#这三个函数对应的曲线之间的关系：" class="headerlink" title="这三个函数对应的曲线之间的关系："></a>这三个函数对应的曲线之间的关系：</h3><blockquote>
+<p>边际产量最高点就是总产量斜率的最大值；<br>边际产量交于平均产量线的最高点，在这点之前，边际产量虽然先增后减但是仍然是 大于平均产量的，因此在这点之前，平均产量递增，这点之后平均产量递减。</p>
+</blockquote>
+<p><img src="http://ouwsyml4w.bkt.clouddn.com/qq_pic_merged_1528457339641%20%282%29.jpg" alt="GitHub set up"></p>
+<ul>
+<li><p>这张图就展现了三条曲线的关系，但是从这幅图中还能得出的一个结论就是：哪个生产阶段对于厂商是最好的，这就引出了三个生产阶段————</p>
+<ul>
+<li><p>边际产量最高点到平均产量最高点为第一阶段</p>
+</li>
+<li><p>平均产量出现下滑趋势，但是在总产量下滑之前为第二阶段</p>
+</li>
+<li><p>总产量下滑之后为第三阶段</p>
+</li>
+</ul>
+</li>
+</ul>
+<h3 id="短期生产中最优生产阶段"><a href="#短期生产中最优生产阶段" class="headerlink" title="短期生产中最优生产阶段"></a>短期生产中最优生产阶段</h3><p>很明显，在一开始就说了厂商追求的产出最大或投入最小，即产量最大或生产要素数量最小（因为两者的价格都是既定的），从图中可以看出来，<strong>在第二阶段持续下去就可以达到产量最大</strong>。所以最适合的生产阶段就是第Ⅱ阶段。</p>
+<blockquote>
+<p>在第一阶段厂商增加劳动投入就可以使平均产量增加，那么厂商为了追求更高的产量一定能会追加劳动投入，到了追加到一定程度边际产量会减少到平均产量之下，此时平均产量开始下跌，但是由于不变要素的利用率可以弥补可变要素生产效率的降低，总产量仍呈递增趋势，所以厂商在第二阶段仍然会增加劳动投入继续生产。显然，第三阶段投入增加但是产出减少。</p>
+</blockquote>
+<h2 id="长期生产函数"><a href="#长期生产函数" class="headerlink" title="长期生产函数"></a>长期生产函数</h2><ul>
+<li>在长期生产中所有要素都是可变的，并且从生产技术的角度两种生产要素都是可以互相替代的。（长期生产函数和短期生产函数一样也是关于生产要素L、K的函数，只不过这里的K和L一样是可变的）</li>
+</ul>
+<pre><code>**无差异曲线**             **等产量曲线**
+</code></pre><p><strong>决定因素</strong>   消费者偏好             客观生产技术</p>
+<pre><code>预算线                 等成本曲线
+</code></pre><p><strong>组合要素</strong>   两种（组）商品购买的数量    两种（组）生产要素投入的量</p>
+<pre><code>等收入               等成本
+</code></pre><blockquote>
+<p>由上面的对比就可以知道长期生产中若要找到<strong>生产者均衡</strong>是和找消费者均衡的点是类似的，由此就可以知道生产者均衡的点是等成本线成为等产量线的切线时交的那一点。即两条曲线斜率相等：$MP L/MP K=PL/PK$  (等产量线的斜率即为边际技术替代率$MRTS LK=▲K/▲L=MP L/MP K$)</p>
+</blockquote>
+<p><img src="http://ouwsyml4w.bkt.clouddn.com/qq_pic_merged_1528457313576.jpg" alt="GitHub set up"></p>
+<hr>
+<p><img src="http://ouwsyml4w.bkt.clouddn.com/qq_pic_merged_1528457280744.jpg" alt="GitHub set up"></p>
+<ul>
+<li><strong>注意：</strong></li>
+</ul>
+<p>1.边际技术替代率的绝对值递减，代表一种生产要素替代另一种的难度越来越大，所以从这一角度来说人是不可能被机器人替代的。</p>
+<p>2.上面说的是一般情况下的等产量线，现实中，还有要素之间可能完全缺乏替代性（等产量线为L形）以及要素之间完全可以替代（MRTS=常数）</p>
+<p><img src="http://ouwsyml4w.bkt.clouddn.com/qq_pic_merged_1528457299829.jpg" alt="GitHub set up"></p>
+<hr>
+<p><img src="http://ouwsyml4w.bkt.clouddn.com/IMG_20180601_155143.jpg" alt="GitHub set up"></p>
+<p>问题：等成本线的斜率为什么是PL/PK？</p>
+
+      
+    </div>
+    
+    
+    
+
+    
+
+    
+
+    
+
+    <footer class="post-footer">
+      
+        <div class="post-tags">
+          
+            <a href="/tags/Course/" rel="tag"># Course</a>
+          
+        </div>
+      
+
+      
+      
+      
+
+      
+        <div class="post-nav">
+          <div class="post-nav-next post-nav-item">
+            
+              <a href="/2018/06/07/消费者均衡的变动/" rel="next" title="消费者均衡的变动">
+                <i class="fa fa-chevron-left"></i> 消费者均衡的变动
+              </a>
+            
+          </div>
+
+          <span class="post-nav-divider"></span>
+
+          <div class="post-nav-prev post-nav-item">
+            
+          </div>
+        </div>
+      
+
+      
+      
+    </footer>
+  </div>
+  
+  
+  
+  </article>
+
+
+
+    <div class="post-spread">
+      
+    </div>
+  </div>
+
+
+          </div>
+          
+
+
+          
+  <div class="comments" id="comments">
+    
+  </div>
+
+
+        </div>
+        
+          
+  
+  <div class="sidebar-toggle">
+    <div class="sidebar-toggle-line-wrap">
+      <span class="sidebar-toggle-line sidebar-toggle-line-first"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-middle"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-last"></span>
+    </div>
+  </div>
+
+  <aside id="sidebar" class="sidebar">
+    
+    <div class="sidebar-inner">
+
+      
+
+      
+        <ul class="sidebar-nav motion-element">
+          <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap" >
+            Table of Contents
+          </li>
+          <li class="sidebar-nav-overview" data-target="site-overview">
+            Overview
+          </li>
+        </ul>
+      
+
+      <section class="site-overview sidebar-panel">
+        <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+          <img class="site-author-image" itemprop="image"
+               src="/images/avatar.gif"
+               alt="JIA" />
+          <p class="site-author-name" itemprop="name">JIA</p>
+           
+              <p class="site-description motion-element" itemprop="description">Stratumy</p>
+          
+        </div>
+        <nav class="site-state motion-element">
+
+          
+            <div class="site-state-item site-state-posts">
+              <a href="/archives/">
+                <span class="site-state-item-count">81</span>
+                <span class="site-state-item-name">posts</span>
+              </a>
+            </div>
+          
+
+          
+            
+            
+            <div class="site-state-item site-state-categories">
+              <a href="/categories/index.html">
+                <span class="site-state-item-count">20</span>
+                <span class="site-state-item-name">categories</span>
+              </a>
+            </div>
+          
+
+          
+            
+            
+            <div class="site-state-item site-state-tags">
+              <a href="/tags/index.html">
+                <span class="site-state-item-count">20</span>
+                <span class="site-state-item-name">tags</span>
+              </a>
+            </div>
+          
+
+        </nav>
+
+        
+          <div class="feed-link motion-element">
+            <a href="/atom.xml" rel="alternate">
+              <i class="fa fa-rss"></i>
+              RSS
+            </a>
+          </div>
+        
+
+        <div class="links-of-author motion-element">
+          
+            
+              <span class="links-of-author-item">
+                <a href="https://github.com/your-user-name" target="_blank" title="GitHub">
+                  
+                    <i class="fa fa-fw fa-github"></i>
+                  
+                    
+                </a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="https://twitter.com/your-user-name" target="_blank" title="Twitter">
+                  
+                    <i class="fa fa-fw fa-twitter"></i>
+                  
+                    
+                </a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="https://weibo.com/your-user-name" target="_blank" title="Weibo">
+                  
+                    <i class="fa fa-fw fa-weibo"></i>
+                  
+                    
+                </a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="https://douban.com/people/your-user-name" target="_blank" title="douban">
+                  
+                    <i class="fa fa-fw fa-globe"></i>
+                  
+                    
+                </a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="skype:yourname?call|chat || skype" target="_blank" title="Skype">
+                  
+                    <i class="fa fa-fw fa-skype"></i>
+                  
+                    
+                </a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="https://plus.google.com/yourname || google" target="_blank" title="Google">
+                  
+                    <i class="fa fa-fw fa-google"></i>
+                  
+                    
+                </a>
+              </span>
+            
+          
+        </div>
+
+        
+        
+
+        
+        
+
+        
+
+
+      </section>
+
+      
+      <!--noindex-->
+        <section class="post-toc-wrap motion-element sidebar-panel sidebar-panel-active">
+          <div class="post-toc">
+
+            
+              
+            
+
+            
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#导论"><span class="nav-number">1.</span> <span class="nav-text">导论</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#主要概念："><span class="nav-number">2.</span> <span class="nav-text">主要概念：</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#短期生产"><span class="nav-number">3.</span> <span class="nav-text">短期生产</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#这三个函数对应的曲线之间的关系："><span class="nav-number">3.1.</span> <span class="nav-text">这三个函数对应的曲线之间的关系：</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#短期生产中最优生产阶段"><span class="nav-number">3.2.</span> <span class="nav-text">短期生产中最优生产阶段</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#长期生产函数"><span class="nav-number">4.</span> <span class="nav-text">长期生产函数</span></a></li></ol></div>
+            
+
+          </div>
+        </section>
+      <!--/noindex-->
+      
+
+      
+        <div class="back-to-top">
+          <i class="fa fa-arrow-up"></i>
+          
+            <span id="scrollpercent"><span>0</span>%</span>
+          
+        </div>
+      
+
+    </div>
+  </aside>
+
+
+        
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="footer-inner">
+        <div class="copyright" >
+  
+  &copy; 
+  <span itemprop="copyrightYear">2018</span>
+  <span class="with-love">
+    <i class="fa fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">JIA</span>
+
+  
+</div>
+
+
+  <div class="powered-by">
+    Powered by <a class="theme-link" href="https://hexo.io">Hexo</a>
+  </div>
+
+  <span class="post-meta-divider">|</span>
+
+  <div class="theme-info">
+    Theme &mdash;
+    <a class="theme-link" href="https://github.com/iissnan/hexo-theme-next">
+      NexT.Pisces
+    </a>
+  </div>
+
+
+        
+
+
+
+
+
+
+
+        
+      </div>
+    </footer>
+
+    
+
+  </div>
+
+  
+
+<script type="text/javascript">
+  if (Object.prototype.toString.call(window.Promise) !== '[object Function]') {
+    window.Promise = null;
+  }
+</script>
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+  
+
+
+
+  
+  <script type="text/javascript" src="/lib/jquery/index.js?v=2.1.3"></script>
+
+  
+  <script type="text/javascript" src="/lib/fastclick/lib/fastclick.min.js?v=1.0.6"></script>
+
+  
+  <script type="text/javascript" src="/lib/jquery_lazyload/jquery.lazyload.js?v=1.9.7"></script>
+
+  
+  <script type="text/javascript" src="/lib/velocity/velocity.min.js?v=1.2.1"></script>
+
+  
+  <script type="text/javascript" src="/lib/velocity/velocity.ui.min.js?v=1.2.1"></script>
+
+  
+  <script type="text/javascript" src="/lib/fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
+
+  
+  <script type="text/javascript" src="/lib/three/three.min.js"></script>
+
+  
+  <script type="text/javascript" src="/lib/three/three-waves.min.js"></script>
+
+  
+  <script type="text/javascript" src="/lib/canvas-ribbon/canvas-ribbon.js"></script>
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/utils.js?v=5.1.2"></script>
+
+  <script type="text/javascript" src="/js/src/motion.js?v=5.1.2"></script>
+
+
+
+  
+  
+
+
+  <script type="text/javascript" src="/js/src/affix.js?v=5.1.2"></script>
+
+  <script type="text/javascript" src="/js/src/schemes/pisces.js?v=5.1.2"></script>
+
+
+
+  
+  <script type="text/javascript" src="/js/src/scrollspy.js?v=5.1.2"></script>
+<script type="text/javascript" src="/js/src/post-details.js?v=5.1.2"></script>
+
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/bootstrap.js?v=5.1.2"></script>
+
+
+
+  
+
+
+  
+
+
+
+
+	
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+  
+
+  
+
+  
+  
+
+
+  
+
+  
+
+</body>
+</html>
