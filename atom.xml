@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-06-09T01:38:59.697Z</updated>
+  <updated>2018-06-09T11:34:44.861Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,13 +17,39 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>成本和利润理论（一）</title>
+    <link href="http://yoursite.com/2018/06/09/%E6%88%90%E6%9C%AC%E5%92%8C%E5%88%A9%E6%B6%A6%E7%90%86%E8%AE%BA/"/>
+    <id>http://yoursite.com/2018/06/09/成本和利润理论/</id>
+    <published>2018-06-09T01:42:26.000Z</published>
+    <updated>2018-06-09T11:34:44.861Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="成本"><a href="#成本" class="headerlink" title="成本"></a>成本</h2><p>经济学中的成本和会计学中的成本不一样，分别称为经济成本和会计成本，详细就不说了，很简单。</p><h3 id="分类"><a href="#分类" class="headerlink" title="分类"></a>分类</h3><ul><li><p>显性成本和隐性成本</p></li><li><p>固定成本和可变成本</p></li><li><p>沉没成本<br>覆水难收了解一下。</p></li><li><p>私人成本和社会成本</p></li></ul><p>社会成本=私人成本+外部成本</p><blockquote><p>由于生产的社会性，单个消费者或生产者的行为不可避免地会对其他人的福利造成影响，也就是说会产生外部性（外部效应）</p></blockquote><pre><code>1.某一生产者的经济活动对他人产生了有利的经济影响，但是自己却未能从中获取报酬，此时便产生了生产的正外部性。比如果农为养蜂人提供了制造蜂蜜的原料，但是没有收费。2.但是如果生产者的经济活动使他人付出了代价但是又没有为此进行补偿就产生了生产的正外部性。比如造纸厂污染了水资源，但是却没有为此进行补偿。3.教育好自己的孩子对隔壁邻居以及社会都产生了正外部性；修建自家草坪邻居也得到了不用支付报酬的好处。这是从消费者的角度来说的4.吸烟者的行为危害了被动吸烟者的身体健康，这属于消费者的负外部性。</code></pre><ul><li>短期成本与长期成本</li></ul><p><strong>发现固定成本和可变成本，短期与长期成本在生产里面也出现过，其实，它们的概念区分也是类似的，可以说是几乎一样，只是把生产要素这个名字变为了成本，这两者本身就是同一种东西，只是放在两个不同的角度来说。</strong></p><h2 id="短期成本函数和长期成本函数"><a href="#短期成本函数和长期成本函数" class="headerlink" title="短期成本函数和长期成本函数"></a>短期成本函数和长期成本函数</h2><h3 id="短期成本函数"><a href="#短期成本函数" class="headerlink" title="短期成本函数"></a>短期成本函数</h3><ul><li><p>$TC=FC+VC$</p></li><li><p>$AC=TC/Q$</p></li><li><p>$AFC=FC/Q$</p></li><li><p>$AVC=VC/Q$</p></li><li><p>$MC=▲TC/▲Q=dTC/dQ$</p></li></ul><p><strong>TC中的FC不变，所以MC其实是单位产量所引起的VC的增加量。</strong><br>可以结合下面这张表感受一下：</p><p><strong>再补</strong></p><p>边际产量先递增后递减，而且一开始递增的速度较快，后面递减的速度较缓，所以对应的边际成本线递减后递增，速度是先慢后快。</p><p>不仅是MC和MPL,TC和TPL、AC和APL也存在着对立的增减趋势。<br>再来感受一下：</p><p><img src="http://ouwsyml4w.bkt.clouddn.com/IMG_20180609_192320.jpg" alt="GitHub set up"></p><hr><p>TC的图：</p><p><strong>再补</strong></p><hr><ul><li>MC、AC、AVC关系（数学上也可以证明）</li></ul><p><img src="http://ouwsyml4w.bkt.clouddn.com/IMG_20180609_192302.jpg" alt="GitHub set up"></p><hr><p><del>求成本一般是根据生产函数来求的</del></p><h3 id="长期成本函数"><a href="#长期成本函数" class="headerlink" title="长期成本函数"></a>长期成本函数</h3><h4 id="前提条件"><a href="#前提条件" class="headerlink" title="前提条件"></a>前提条件</h4><ul><li>长期成本函数考察的是厂商从计划提供的产量出发，调整一切投入，建立一个相应规模的工厂。理论上对于每一个产量，厂商都可以选择一个最优规模————特定规模工厂生产的最适度产量。</li></ul><p>在长期中（理论上），厂商都是以最优生产规模，即产量最优，成本最低。</p><h4 id="长期总成本曲线"><a href="#长期总成本曲线" class="headerlink" title="长期总成本曲线"></a>长期总成本曲线</h4><p>根据上面的论述，可以知道，LTC是STC最低点连线的轨迹；同理，LAC是SAC最低点连线的轨迹。</p><p><img src="http://ouwsyml4w.bkt.clouddn.com/IMG_20180609_191724.jpg" alt="GitHub set up"></p><ul><li>注意：如果上面这幅图中有LMC的话，LMC是与SMC相交而不是相切。</li></ul><blockquote><p>对成本产生影响的不仅仅是长期、短期中对生产规模、产量的调整。还有其他的一些因素也会影响成本的变化。</p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;成本&quot;&gt;&lt;a href=&quot;#成本&quot; class=&quot;headerlink&quot; title=&quot;成本&quot;&gt;&lt;/a&gt;成本&lt;/h2&gt;&lt;p&gt;经济学中的成本和会计学中的成本不一样，分别称为经济成本和会计成本，详细就不说了，很简单。&lt;/p&gt;
+&lt;h3 id=&quot;分类&quot;&gt;&lt;a href=&quot;
+      
+    
+    </summary>
+    
+      <category term="Course" scheme="http://yoursite.com/categories/Course/"/>
+    
+    
+      <category term="Course" scheme="http://yoursite.com/tags/Course/"/>
+    
+  </entry>
+  
+  <entry>
     <title>生产理论</title>
     <link href="http://yoursite.com/2018/06/07/%E7%94%9F%E4%BA%A7%E7%90%86%E8%AE%BA/"/>
     <id>http://yoursite.com/2018/06/07/生产理论/</id>
     <published>2018-06-07T09:37:37.000Z</published>
-    <updated>2018-06-09T01:38:59.697Z</updated>
+    <updated>2018-06-09T03:17:29.041Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="导论"><a href="#导论" class="headerlink" title="导论"></a>导论</h2><p>从生产角度分析厂商的供给，讨论在不同生产周期里厂商在要素价格既定和投入既定的情况下，如何进行要素投入和规模选择，使自己生产行为最优化，实现既定投入下产出最大或既定产出下投入最小。</p><h2 id="主要概念："><a href="#主要概念：" class="headerlink" title="主要概念："></a>主要概念：</h2><p>短期、长期分类、边际生产力递减</p><p>在这里把厂商的生产目标定的是支出最小化或者是收入最大化，因此在一些计算体中问的也是厂商的成本和产量。</p><h2 id="短期生产"><a href="#短期生产" class="headerlink" title="短期生产"></a>短期生产</h2><ul><li><p>短期生产周期中部分要素可变（可变成本），部分要素不可变（固定成本）。不可变的部分正是因为时间太短，短到来不及改变。在长期生产中，所有要素都有时间来做出改变。</p></li><li><p>依然是为了讨论简便，这里将短期生产函数中以资本（K）和劳动（L）代指固定生产要素和可变生产要素的投入。<br>$Q=f(·K,L)$    （点表示K不变，其实在一般的函数中表示出来的只有L）</p></li></ul><p>总产量：$Q=f(L)$</p><p>平均产量：$AP L=Q/L$</p><p>边际产量：$MP L=dQ/dL$</p><h3 id="这三个函数对应的曲线之间的关系："><a href="#这三个函数对应的曲线之间的关系：" class="headerlink" title="这三个函数对应的曲线之间的关系："></a>这三个函数对应的曲线之间的关系：</h3><blockquote><p>边际产量最高点就是总产量斜率的最大值；<br>边际产量交于平均产量线的最高点，在这点之前，边际产量虽然先增后减但是仍然是 大于平均产量的，因此在这点之前，平均产量递增，这点之后平均产量递减。</p></blockquote><p><img src="http://ouwsyml4w.bkt.clouddn.com/qq_pic_merged_1528457339641%20%282%29.jpg" alt="GitHub set up"></p><ul><li><p>这张图就展现了三条曲线的关系，但是从这幅图中还能得出的一个结论就是：哪个生产阶段对于厂商是最好的，这就引出了三个生产阶段————</p><ul><li><p>边际产量最高点到平均产量最高点为第一阶段</p></li><li><p>平均产量出现下滑趋势，但是在总产量下滑之前为第二阶段</p></li><li><p>总产量下滑之后为第三阶段</p></li></ul></li></ul><h3 id="短期生产中最优生产阶段"><a href="#短期生产中最优生产阶段" class="headerlink" title="短期生产中最优生产阶段"></a>短期生产中最优生产阶段</h3><p>很明显，在一开始就说了厂商追求的产出最大或投入最小，即产量最大或生产要素数量最小（因为两者的价格都是既定的），从图中可以看出来，<strong>在第二阶段持续下去就可以达到产量最大</strong>。所以最适合的生产阶段就是第Ⅱ阶段。</p><blockquote><p>在第一阶段厂商增加劳动投入就可以使平均产量增加，那么厂商为了追求更高的产量一定能会追加劳动投入，到了追加到一定程度边际产量会减少到平均产量之下，此时平均产量开始下跌，但是由于不变要素的利用率可以弥补可变要素生产效率的降低，总产量仍呈递增趋势，所以厂商在第二阶段仍然会增加劳动投入继续生产。显然，第三阶段投入增加但是产出减少。</p></blockquote><h2 id="长期生产函数"><a href="#长期生产函数" class="headerlink" title="长期生产函数"></a>长期生产函数</h2><ul><li>在长期生产中所有要素都是可变的，并且从生产技术的角度两种生产要素都是可以互相替代的。（长期生产函数和短期生产函数一样也是关于生产要素L、K的函数，只不过这里的K和L一样是可变的）</li></ul><pre><code>无差异曲线            等产量曲线消费者偏好            客观生产技术 预算线              等成本曲线两种（组）商品购买的数量          两种（组）生产要素投入的量 等收入               等成本</code></pre><blockquote><p>由上面的对比就可以知道长期生产中若要找到<strong>生产者均衡</strong>是和找消费者均衡的点是类似的，由此就可以知道生产者均衡的点是等成本线成为等产量线的切线时交的那一点。即两条曲线斜率相等：$MP L/MP K=PL/PK$  (等产量线的斜率即为边际技术替代率$MRTS LK=▲K/▲L=MP L/MP K$)</p></blockquote><p><img src="http://ouwsyml4w.bkt.clouddn.com/qq_pic_merged_1528457313576.jpg" alt="GitHub set up"></p><hr><p><img src="http://ouwsyml4w.bkt.clouddn.com/qq_pic_merged_1528457280744.jpg" alt="GitHub set up"></p><ul><li><strong>注意：</strong></li></ul><p>1.边际技术替代率的绝对值递减，代表一种生产要素替代另一种的难度越来越大，所以从这一角度来说人是不可能被机器人替代的。</p><p>2.上面说的是一般情况下的等产量线，现实中，还有要素之间可能完全缺乏替代性（等产量线为L形）以及要素之间完全可以替代（MRTS=常数）</p><p><img src="http://ouwsyml4w.bkt.clouddn.com/qq_pic_merged_1528457299829.jpg" alt="GitHub set up"></p><p>问题：等成本线的斜率为什么是PL/PK？</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="导论"><a href="#导论" class="headerlink" title="导论"></a>导论</h2><p>从生产角度分析厂商的供给，讨论在不同生产周期里厂商在要素价格既定和投入既定的情况下，如何进行要素投入和规模选择，使自己生产行为最优化，实现既定投入下产出最大或既定产出下投入最小。</p><h2 id="主要概念："><a href="#主要概念：" class="headerlink" title="主要概念："></a>主要概念：</h2><p>短期、长期分类、边际生产力递减、规模经济、范围经济、规模报酬</p><p>在这里把厂商的生产目标定的是支出最小化或者是收入最大化，因此在一些计算体中问的也是厂商的成本和产量。</p><h2 id="短期生产"><a href="#短期生产" class="headerlink" title="短期生产"></a>短期生产</h2><ul><li><p>短期生产周期中部分要素可变（可变成本），部分要素不可变（固定成本）。不可变的部分正是因为时间太短，短到来不及改变。在长期生产中，所有要素都有时间来做出改变。</p></li><li><p>依然是为了讨论简便，这里将短期生产函数中以资本（K）和劳动（L）代指固定生产要素和可变生产要素的投入。<br>$Q=f(·K,L)$    （点表示K不变，其实在一般的函数中表示出来的只有L）</p></li></ul><p>总产量：$Q=f(L)$</p><p>平均产量：$AP L=Q/L$</p><p>边际产量：$MP L=dQ/dL$</p><h3 id="这三个函数对应的曲线之间的关系："><a href="#这三个函数对应的曲线之间的关系：" class="headerlink" title="这三个函数对应的曲线之间的关系："></a>这三个函数对应的曲线之间的关系：</h3><blockquote><p>边际产量最高点就是总产量斜率的最大值；<br>边际产量交于平均产量线的最高点，在这点之前，边际产量虽然先增后减但是仍然是 大于平均产量的，因此在这点之前，平均产量递增，这点之后平均产量递减。</p></blockquote><p><img src="http://ouwsyml4w.bkt.clouddn.com/qq_pic_merged_1528457339641%20%282%29.jpg" alt="GitHub set up"></p><ul><li><p>这张图就展现了三条曲线的关系，但是从这幅图中还能得出的一个结论就是：哪个生产阶段对于厂商是最好的，这就引出了三个生产阶段————</p><ul><li><p>边际产量最高点到平均产量最高点为第一阶段</p></li><li><p>平均产量出现下滑趋势，但是在总产量下滑之前为第二阶段</p></li><li><p>总产量下滑之后为第三阶段</p></li></ul></li></ul><h3 id="短期生产中最优生产阶段"><a href="#短期生产中最优生产阶段" class="headerlink" title="短期生产中最优生产阶段"></a>短期生产中最优生产阶段</h3><p>很明显，在一开始就说了厂商追求的产出最大或投入最小，即产量最大或生产要素数量最小（因为两者的价格都是既定的），从图中可以看出来，<strong>在第二阶段持续下去就可以达到产量最大</strong>。所以最适合的生产阶段就是第Ⅱ阶段。</p><blockquote><p>在第一阶段厂商增加劳动投入就可以使平均产量增加，那么厂商为了追求更高的产量一定能会追加劳动投入，到了追加到一定程度边际产量会减少到平均产量之下，此时平均产量开始下跌，但是由于不变要素的利用率可以弥补可变要素生产效率的降低，总产量仍呈递增趋势，所以厂商在第二阶段仍然会增加劳动投入继续生产。显然，第三阶段投入增加但是产出减少。</p></blockquote><h2 id="长期生产函数"><a href="#长期生产函数" class="headerlink" title="长期生产函数"></a>长期生产函数</h2><ul><li>在长期生产中所有要素都是可变的，并且从生产技术的角度两种生产要素都是可以互相替代的。（长期生产函数和短期生产函数一样也是关于生产要素L、K的函数，只不过这里的K和L一样是可变的）</li></ul><pre><code>无差异曲线            等产量曲线消费者偏好            客观生产技术 预算线              等成本曲线两种（组）商品购买的数量          两种（组）生产要素投入的量 等收入               等成本</code></pre><blockquote><p>由上面的对比就可以知道长期生产中若要找到<strong>生产者均衡</strong>是和找消费者均衡的点是类似的，由此就可以知道生产者均衡的点是等成本线成为等产量线的切线时交的那一点。即两条曲线斜率相等：$MP L/MP K=PL/PK$  (等产量线的斜率即为边际技术替代率$MRTS LK=▲K/▲L=MP L/MP K$)</p></blockquote><p><img src="http://ouwsyml4w.bkt.clouddn.com/qq_pic_merged_1528457313576.jpg" alt="GitHub set up"></p><hr><p><img src="http://ouwsyml4w.bkt.clouddn.com/qq_pic_merged_1528457280744.jpg" alt="GitHub set up"></p><ul><li><strong>注意：</strong></li></ul><p>1.边际技术替代率的绝对值递减，代表一种生产要素替代另一种的难度越来越大，所以从这一角度来说人是不可能被机器人替代的。</p><p>2.上面说的是一般情况下的等产量线，现实中，还有要素之间可能完全缺乏替代性（等产量线为L形）以及要素之间完全可以替代（MRTS=常数）</p><p><img src="http://ouwsyml4w.bkt.clouddn.com/qq_pic_merged_1528457299829.jpg" alt="GitHub set up"></p><p>##规模效益、规模经济</p><p>问题：等成本线的斜率为什么是PL/PK？</p>]]></content>
     
     <summary type="html">
     
@@ -470,32 +496,6 @@
       
         &lt;blockquote&gt;
 &lt;p&gt;无论货币是贝壳、石块、、黄金、还是纸币，它在任何经济结构中都有四种基本职能：作为一种交易媒介的职能，记账单位的职能，价值储存职能和作为延期支付的标准的职能。&lt;br&gt;在这四个职能中作为交易媒介的职能可以区分货币和其他有价值的东西例如股票、债券和房产。
-      
-    
-    </summary>
-    
-      <category term="English" scheme="http://yoursite.com/categories/English/"/>
-    
-    
-      <category term="English" scheme="http://yoursite.com/tags/English/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Translation 2——Meaning of Money</title>
-    <link href="http://yoursite.com/2018/02/05/Translation-2/"/>
-    <id>http://yoursite.com/2018/02/05/Translation-2/</id>
-    <published>2018-02-05T12:11:23.000Z</published>
-    <updated>2018-02-07T04:07:02.153Z</updated>
-    
-    <content type="html"><![CDATA[<ul><li><p>如果你在独立战争前住在美国，你的钱可能主要由西班牙达布隆组成（一种被称作？的银币）。<br>在美国内战前，美国主要的货币形式不仅仅有金银制币还有纸币，这种纸币由私人银行发行，称作银行券。<br>今天，你不只是把政府发行的硬币和美钞当作货币使用，还有在银行开设的账户所签发的支票。<br>货币在不同的时期代表的意义不同，然而，它对于人和经济总是很重要的。</p></li><li><p>当money这个单词用于日常对话时，它能意味着很多东西，但是对于经济学而言，它有一个很特别的意义。<br>为了避免疑惑，我们必须说清楚经济学家对money这个单词的使用是如何区别于传统用法的形式。</p></li><li><p>经济学家定义money（也被称作货币供应）为作为货物、服务、债务支付被普遍接受的任何东西。<br>货币由美钞和硬币组成，显然适合这种定义并且是money类型的一种。<br>当大多数人说到money的时候，他们正在谈论货币。<br>例如，如果有人走到你跟前说：“Your money or your life”你应该迅速交给他所有的货币而不是问”你说的‘money’到底是什么意思?”。</p></li><li><p>仅仅把money定义为货币对于经济学家来说太狭隘了。<br>因为支票作为对购物的付款也被人们接受，支票账户余额同样被视为money。<br>“money”的一个更为广泛的含义经常是被用到的，因为其他东西例如储蓄存款如果能够快速而便利地兑换成货币或支票账户余额的话实际上也能作为money起作用。<br>正如你看到的，甚至对于经济学家money和money supply也没有单一、精确的定义。</p></li><li><p>为了使它更加复杂，money 这个单词等同于财富（wealth）一样被频繁使用。<br>当人们说“乔是富裕的——他有非常多的钱，”这可能意味着乔不仅有大量的货币和支票账户中的大量余额，而且还有股票、债券、四辆汽车、三套房子和一艘游艇。<br>因此，尽管“货币(currency)”是money的一个很狭义的含义，那这另一个流行的用法就宽泛得多了。<br>经济学家在货币形式的money、活期存款和用于购买的其他物品以及财富之间做了一个区分，财富即用于储存价值的性质的部分的总和。<br>财富包括的不仅仅是金钱，还有其他有价值的东西例如债券、普通股、艺术品、土地、家具、汽车、房子。</p></li><li><p>人们也用money这个单词来描述经济学家所说的收入，就像这个句子里“希拉将会是一个很理想的对象：她有一份好工作并且挣很多钱。”相比之下，money是一种储有量；在一个被给定的时间点上它是一个确定的数量。<br>如果有人告诉你在他的口袋里有1000美元，你就确切地知道那是多少钱了。</p></li><li><p>记住money在这本书中指的是任何能够作为一种对货物、服务以及欠款的支付而被普遍接受的东西，而且区分于收入和财富。</p></li></ul><hr><p><img src="http://ouwsyml4w.bkt.clouddn.com/IMG_20180207_115836.jpg" alt="GitHub set up"></p><p><img src="http://ouwsyml4w.bkt.clouddn.com/IMG_20180207_115708.jpg" alt="GitHub set up"></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;如果你在独立战争前住在美国，你的钱可能主要由西班牙达布隆组成（一种被称作？的银币）。&lt;br&gt;在美国内战前，美国主要的货币形式不仅仅有金银制币还有纸币，这种纸币由私人银行发行，称作银行券。&lt;br&gt;今天，你不只是把政府发行的硬币和美钞当作货币使用，还有在银行开
       
     
     </summary>
