@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-06-13T10:46:06.491Z</updated>
+  <updated>2018-06-13T12:59:02.049Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>完全竞争市场</title>
+    <link href="http://yoursite.com/2018/06/13/%E5%AE%8C%E5%85%A8%E7%AB%9E%E4%BA%89%E5%B8%82%E5%9C%BA/"/>
+    <id>http://yoursite.com/2018/06/13/完全竞争市场/</id>
+    <published>2018-06-13T11:54:39.000Z</published>
+    <updated>2018-06-13T12:59:02.049Z</updated>
+    
+    <content type="html"><![CDATA[<p>在完全竞争市场中的完全厂商MR一直为正，所以TR一直在上升。</p><hr><p>在上一篇中就可能会有点误解就是价格的不变性，价格不变是相对于厂商来说的，对于整个市场来说，价格是由供给和需求决定的，如下图所示：</p><p><img src="http://ouwsyml4w.bkt.clouddn.com/IMG_20180613_205404.jpg" alt="GitHub set up"></p><hr><h2 id="短期均衡的四种情况："><a href="#短期均衡的四种情况：" class="headerlink" title="短期均衡的四种情况："></a>短期均衡的四种情况：</h2><ul><li>获得利润的短期均衡</li></ul><p><img src="http://ouwsyml4w.bkt.clouddn.com/IMG_20180613_205351.jpg" alt="GitHub set up"></p><ul><li>利润为0的短期均衡</li></ul><p><img src="http://ouwsyml4w.bkt.clouddn.com/IMG_20180613_205335.jpg" alt="GitHub set up"></p><ul><li>亏损最小时的短期均衡（保本点）<br>价格为P3，能收回全部VC和部分FC</li></ul><p><img src="http://ouwsyml4w.bkt.clouddn.com/IMG_20180613_205326.jpg" alt="GitHub set up"></p><ul><li>停止营业点的短期均衡（关门点）<br>价格为P4，只能收回VC，收不回FC，再经营下去，连VC都收不回，更不要说FC了</li></ul><p><img src="http://ouwsyml4w.bkt.clouddn.com/IMG_20180613_205110.jpg" alt="GitHub set up"></p><hr><h2 id="长期均衡"><a href="#长期均衡" class="headerlink" title="长期均衡"></a>长期均衡</h2><p>也是对最优生产规模的选择。因为在长期中，厂商可以调整所有要素根据产量选择最优生产规模。</p><p><strong>原则：</strong> $MR=LMC$</p><p>例如，在下图中，就是根据MR=LMC的原则，选择了SMC2和SAC2所代表的最优规模进行生产。（显然，SAC2的生产规模要比SAC1的利润更大，如果在P1的价格之下，原来的生产规模是SAC1要么退出市场，要么扩大规模，扩大成SAC2）H点是长期均衡点。</p><p><img src="http://ouwsyml4w.bkt.clouddn.com/IMG_20180613_205248.jpg" alt="GitHub set up"></p><h3 id="厂商在长期生产中进入或退出一个行业"><a href="#厂商在长期生产中进入或退出一个行业" class="headerlink" title="厂商在长期生产中进入或退出一个行业"></a>厂商在长期生产中进入或退出一个行业</h3><ul><li>上面说的是厂商的长期均衡，下面说<strong>厂商和行业的长期均衡</strong>，也就是完全竞争市场的长期均衡。这主要是通过厂商进出一个行业来实现的。</li></ul><blockquote><p>在这种均衡下，既无厂商进入也无厂商退出，因为，市场中的厂商只能获得正常利润，没有超额利润，一旦获得超额利润就会有其他厂商进入市场，均衡不存在了就。对应的，一旦连正常利润都不能获得的话就会有厂商退出市场.真是，说完自己都感觉这种市场好荒谬。。。。。。。</p></blockquote><p>完全竞争厂商长期均衡形成过程及其条件：</p><p><img src="http://ouwsyml4w.bkt.clouddn.com/IMG_20180613_205301.jpg" alt="GitHub set up"></p><ul><li><p>P1时，SAC1规模下的厂商有利可图，就会吸引更多的厂商进入，整个市场供给增加为S3，价格下降为P3。</p></li><li><p>P3时，所有规模的厂商都亏损，然后就有很多厂商退出市场，供给减少到S2，价格升到P2，此时，SAC3规模是最优生产规模，就在此时，厂商和行业也就达到了长期均衡。</p></li><li><p>从图中可以看出来 P=LMC=LAC（最低长期平均成本点）=MR=SMC=SAC</p></li></ul><hr><p>图都有点难看，不过目前也找不到更好看的图了╮(╯▽╰)╭</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;在完全竞争市场中的完全厂商MR一直为正，所以TR一直在上升。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;在上一篇中就可能会有点误解就是价格的不变性，价格不变是相对于厂商来说的，对于整个市场来说，价格是由供给和需求决定的，如下图所示：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://ouwsy
+      
+    
+    </summary>
+    
+      <category term="Course" scheme="http://yoursite.com/categories/Course/"/>
+    
+    
+      <category term="Course" scheme="http://yoursite.com/tags/Course/"/>
+    
+  </entry>
   
   <entry>
     <title>成本和利润理论（二）</title>
@@ -484,20 +512,6 @@
     <id>http://yoursite.com/2018/02/16/Translation-5/</id>
     <published>2018-02-16T09:55:51.000Z</published>
     <updated>2018-02-16T09:55:51.280Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Translation 4</title>
-    <link href="http://yoursite.com/2018/02/10/Translation-4/"/>
-    <id>http://yoursite.com/2018/02/10/Translation-4/</id>
-    <published>2018-02-10T09:35:16.000Z</published>
-    <updated>2018-02-10T09:35:16.184Z</updated>
     
     <summary type="html">
     
