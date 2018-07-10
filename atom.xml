@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-07-09T09:47:49.882Z</updated>
+  <updated>2018-07-10T03:19:27.869Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,27 +21,24 @@
     <link href="http://yoursite.com/2018/07/09/java%E5%9F%BA%E7%A1%80%E2%80%94%E2%80%94%E8%BF%90%E7%AE%97%E7%AC%A6%E4%BC%98%E5%85%88%E7%BA%A7/"/>
     <id>http://yoursite.com/2018/07/09/java基础——运算符优先级/</id>
     <published>2018-07-09T05:23:54.000Z</published>
-    <updated>2018-07-09T09:47:49.882Z</updated>
+    <updated>2018-07-10T03:19:27.869Z</updated>
     
-    <content type="html"><![CDATA[<p>最高</p><p>( )     [ ]     .  </p><p>++      – –     ~     !</p><ul><li>/      %  </li></ul><ul><li>–        <blockquote><blockquote><pre><code>&gt;&gt;&gt;     &lt;&lt;</code></pre><p>=      &lt;     &lt;=</p></blockquote></blockquote></li></ul><p>==      !=</p><p>&amp;</p><p>^</p><p>| </p><p>&amp;&amp;</p><p>||</p><p>?:</p><p>=        op=</p><p>最低</p>]]></content>
+    <content type="html"><![CDATA[<p>表4-7显示了Java 运算符从最高到最低的优先级。注意第一行显示的项你通常不能把它<br>们作为运算符:圆括号，方括号，点运算符。圆括号被用来改变运算的优先级。从前面章节<br>我们知道，方括号用来表示数组的下标。点运算符用来将对象名和成员名连接起来。</p><p><img src="http://ouwsyml4w.bkt.clouddn.com/61%28%5D933IZ3%7BUSZA4IGYO8H2.png" alt="GitHub set up"><br><img src="http://ouwsyml4w.bkt.clouddn.com/1223.png" alt="GitHub set up"></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;最高&lt;/p&gt;
-&lt;p&gt;( )     [ ]     .  &lt;/p&gt;
-&lt;p&gt;++      – –     ~     !&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;/      %  &lt;/li&gt;
-&lt;/ul&gt;
-&lt;ul&gt;
-&lt;li&gt;–        &lt;blockquote&gt;
-&lt;blockquot
+        &lt;p&gt;表4-7显示了Java 运算符从最高到最低的优先级。注意第一行显示的项你通常不能把它&lt;br&gt;们作为运算符:圆括号，方括号，点运算符。圆括号被用来改变运算的优先级。从前面章节&lt;br&gt;我们知道，方括号用来表示数组的下标。点运算符用来将对象名和成员名连接起来。&lt;/p&gt;
+&lt;p&gt;&lt;i
       
     
     </summary>
     
+      <category term="Java" scheme="http://yoursite.com/categories/Java/"/>
+    
+    
+      <category term="Java" scheme="http://yoursite.com/tags/Java/"/>
     
   </entry>
   
