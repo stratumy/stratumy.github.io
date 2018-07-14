@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-07-14T02:52:12.771Z</updated>
+  <updated>2018-07-14T03:19:56.423Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,18 +21,15 @@
     <link href="http://yoursite.com/2018/07/13/java%E5%9F%BA%E7%A1%80%E2%80%94%E2%80%94printf-%E7%9A%84%E7%94%A8%E6%B3%95/"/>
     <id>http://yoursite.com/2018/07/13/java基础——printf-的用法/</id>
     <published>2018-07-13T14:32:32.000Z</published>
-    <updated>2018-07-14T02:52:12.771Z</updated>
+    <updated>2018-07-14T03:19:56.423Z</updated>
     
-    <content type="html"><![CDATA[<ul><li>“%3d”</li></ul><p><img src="http://ouwsyml4w.bkt.clouddn.com/%28E~XYQHCZZ%29LPQ%28XIS@%28Y_C.png" alt="GitHub set up"><br>这里面“%3d”表示的是3个int值的占位符</p><p>运算结果如下：</p><p><img src="http://ouwsyml4w.bkt.clouddn.com/3FQ%29ZI%5DEESG%28MO%5D0P%5D2C21N.png" alt="GitHub set up"></p><ul><li><p>System.out.printf(“i的值为%d,j的值为%.2f”, i,j);<br>这里的”%.2f”的意思是输出两位小数点。如果想输出三位那就”%.3f”。</p></li><li><p>“%s”是一个字符串值的点位符的意思。”%c”是一个字符值的点位符的意思。</p></li></ul><p>通过上面可以发现了printf()格式化输出的作用了。</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="printf"><a href="#printf" class="headerlink" title="printf()"></a>printf()</h2><h4 id="“-3d”"><a href="#“-3d”" class="headerlink" title="“%3d”"></a>“%3d”</h4><p><img src="http://ouwsyml4w.bkt.clouddn.com/VAMH%5DBI5K23_36%7BXHTR7DLE.png" alt="GitHub set up"><br>这里面“%3d”表示的是3个int值的占位符</p><p>运算结果如下：<br><img src="http://ouwsyml4w.bkt.clouddn.com/3FQ%29ZI%5DEESG%28MO%5D0P%5D2C21N.png" alt="GitHub set up"></p><h4 id="2f"><a href="#2f" class="headerlink" title="%.2f"></a>%.2f</h4><p>System.out.printf(“i的值为%d,j的值为%.2f”, i,j);<br>这里的”%.2f”的意思是输出两位小数点。如果想输出三位那就”%.3f”。</p><h4 id="“-s”"><a href="#“-s”" class="headerlink" title="“%s”"></a>“%s”</h4><ul><li>“%s”是一个字符串值的点位符的意思。</li></ul><h4 id="“-c”"><a href="#“-c”" class="headerlink" title="“%c”"></a>“%c”</h4><p>“%c”是一个字符值的点位符的意思。</p><p>通过上面可以发现了printf()格式化输出的作用了。</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;ul&gt;
-&lt;li&gt;“%3d”&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img src=&quot;http://ouwsyml4w.bkt.clouddn.com/%28E~XYQHCZZ%29LPQ%28XIS@%28Y_C.png&quot; alt=&quot;GitHub set up&quot;&gt;&lt;br&gt;这里面“%3d
+        &lt;h2 id=&quot;printf&quot;&gt;&lt;a href=&quot;#printf&quot; class=&quot;headerlink&quot; title=&quot;printf()&quot;&gt;&lt;/a&gt;printf()&lt;/h2&gt;&lt;h4 id=&quot;“-3d”&quot;&gt;&lt;a href=&quot;#“-3d”&quot; class=&quot;headerlink&quot; ti
       
     
     </summary>
