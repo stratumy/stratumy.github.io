@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-07-10T03:19:27.869Z</updated>
+  <updated>2018-07-14T02:52:12.771Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>java基础——printf()的用法</title>
+    <link href="http://yoursite.com/2018/07/13/java%E5%9F%BA%E7%A1%80%E2%80%94%E2%80%94printf-%E7%9A%84%E7%94%A8%E6%B3%95/"/>
+    <id>http://yoursite.com/2018/07/13/java基础——printf-的用法/</id>
+    <published>2018-07-13T14:32:32.000Z</published>
+    <updated>2018-07-14T02:52:12.771Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>“%3d”</li></ul><p><img src="http://ouwsyml4w.bkt.clouddn.com/%28E~XYQHCZZ%29LPQ%28XIS@%28Y_C.png" alt="GitHub set up"><br>这里面“%3d”表示的是3个int值的占位符</p><p>运算结果如下：</p><p><img src="http://ouwsyml4w.bkt.clouddn.com/3FQ%29ZI%5DEESG%28MO%5D0P%5D2C21N.png" alt="GitHub set up"></p><ul><li><p>System.out.printf(“i的值为%d,j的值为%.2f”, i,j);<br>这里的”%.2f”的意思是输出两位小数点。如果想输出三位那就”%.3f”。</p></li><li><p>“%s”是一个字符串值的点位符的意思。”%c”是一个字符值的点位符的意思。</p></li></ul><p>通过上面可以发现了printf()格式化输出的作用了。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;ul&gt;
+&lt;li&gt;“%3d”&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;http://ouwsyml4w.bkt.clouddn.com/%28E~XYQHCZZ%29LPQ%28XIS@%28Y_C.png&quot; alt=&quot;GitHub set up&quot;&gt;&lt;br&gt;这里面“%3d
+      
+    
+    </summary>
+    
+      <category term="Java" scheme="http://yoursite.com/categories/Java/"/>
+    
+    
+      <category term="Java" scheme="http://yoursite.com/tags/Java/"/>
+    
+  </entry>
   
   <entry>
     <title>java基础——运算符优先级</title>
@@ -283,16 +311,15 @@
     <link href="http://yoursite.com/2018/05/14/Java%E5%9F%BA%E7%A1%80%EF%BC%88%E4%B8%80%EF%BC%89/"/>
     <id>http://yoursite.com/2018/05/14/Java基础（一）/</id>
     <published>2018-05-14T12:12:48.000Z</published>
-    <updated>2018-05-14T12:20:43.517Z</updated>
+    <updated>2018-07-14T03:00:16.685Z</updated>
     
-    <content type="html"><![CDATA[<ul><li><p>面向对象的理解并举例？<br>面向对象是基于面向过程而言的，可以把复杂的事情简单化，让我们从执行者变为指挥者每提高了代码的复用性。<br>例如：烧水（面向过程：找到烧水壶——打开盖子——装水——关闭盖子——打开电源——水烧好了）    （面向对象：拿壶——装水——烧水——等待——水烧好了）</p></li><li><p>类与对象之间的关系？<br>类就是有很多相同特性的分类，而对象就是一类中具体的一个。</p></li><li><p>如何对类进行分析，如果创建自定义类对象，并如何指挥对象做事情？<br>首先分析这个类是个什么样的事物；其次分析这个类具有哪些属性和行为；把这个事物的属性和行为对应成我们的成员变量和成员方法。<br>通过new关键字创建这个类的对象。 类名.属性名; 类名.方法名（）；直接调用。</p></li><li><p>成员变量和局部变量的区别？<br>作用范围<br>  成员变量：作用于整个类中。 局部变量：作用于所在区域。<br>生命周期<br>  成员变量：随着类的创建而存在，随着类的消失而消失，执行完语句后等JVM空闲时由垃圾回收机制清理。<br>局部变量：是创建对象时才存在的，执行完回立即释放；所以成员变量的生命周期更长。<br>初始值<br>  成员变量：存在于堆内存中，有默认初始值。 局部变量：存在于栈内存中，没有默认初始值，需要手动赋值。</p></li></ul>]]></content>
+    <content type="html"><![CDATA[<h2 id="面向对象的理解并举例"><a href="#面向对象的理解并举例" class="headerlink" title="面向对象的理解并举例"></a>面向对象的理解并举例</h2><p>面向对象是基于面向过程而言的，可以把复杂的事情简单化，让我们从执行者变为指挥者每提高了代码的复用性。<br>例如：烧水（面向过程：找到烧水壶——打开盖子——装水——关闭盖子——打开电源——水烧好了）    （面向对象：拿壶——装水——烧水——等待——水烧好了）</p><h2 id="类与对象之间的关系"><a href="#类与对象之间的关系" class="headerlink" title="类与对象之间的关系"></a>类与对象之间的关系</h2><p>类就是有很多相同特性的分类，而对象就是一类中具体的一个。</p><h2 id="如何对类进行分析"><a href="#如何对类进行分析" class="headerlink" title="如何对类进行分析"></a>如何对类进行分析</h2><p>如果创建自定义类对象，并如何指挥对象做事情？</p><p>首先分析这个类是个什么样的事物；其次分析这个类具有哪些属性和行为；把这个事物的属性和行为对应成我们的成员变量和成员方法。<br>通过new关键字创建这个类的对象。 类名.属性名; 类名.方法名（）；直接调用。</p><h2 id="成员变量和局部变量的区别"><a href="#成员变量和局部变量的区别" class="headerlink" title="成员变量和局部变量的区别"></a>成员变量和局部变量的区别</h2><ul><li><p>作用范围<br>  成员变量：作用于整个类中。 局部变量：作用于所在区域。</p></li><li><p>生命周期<br>  成员变量：随着类的创建而存在，随着类的消失而消失，执行完语句后等JVM空闲时由垃圾回收机制清理。   </p></li><li><p>局部变量：是创建对象时才存在的，执行完回立即释放；所以成员变量的生命周期更长。<br>初始值</p></li><li><p>成员变量：存在于堆内存中，有默认初始值。 局部变量：存在于栈内存中，没有默认初始值，需要手动赋值。</p></li></ul>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;面向对象的理解并举例？&lt;br&gt;面向对象是基于面向过程而言的，可以把复杂的事情简单化，让我们从执行者变为指挥者每提高了代码的复用性。&lt;br&gt;例如：烧水（面向过程：找到烧水壶——打开盖子——装水——关闭盖子——打开电源——水烧好了）    （面向对象：拿壶——
+        &lt;h2 id=&quot;面向对象的理解并举例&quot;&gt;&lt;a href=&quot;#面向对象的理解并举例&quot; class=&quot;headerlink&quot; title=&quot;面向对象的理解并举例&quot;&gt;&lt;/a&gt;面向对象的理解并举例&lt;/h2&gt;&lt;p&gt;面向对象是基于面向过程而言的，可以把复杂的事情简单化，让我们从执行者变为指挥
       
     
     </summary>
@@ -515,32 +542,6 @@
     
     
       <category term="Word" scheme="http://yoursite.com/tags/Word/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>英语学习阅读他人方法笔记（一）</title>
-    <link href="http://yoursite.com/2018/02/22/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0%E9%98%85%E8%AF%BB%E4%BB%96%E4%BA%BA%E6%96%B9%E6%B3%95%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B8%80%EF%BC%89/"/>
-    <id>http://yoursite.com/2018/02/22/英语学习阅读他人方法笔记（一）/</id>
-    <published>2018-02-22T15:05:14.000Z</published>
-    <updated>2018-02-23T03:13:27.445Z</updated>
-    
-    <content type="html"><![CDATA[<p>在知乎回答集锦上看了<strong>恶魔的奶爸</strong>的相关回答，本来是不准备做笔记什么的。但是后来觉得还是做一下吧，可能昨天看完，两天就忘了，做点笔记以后想看的时候比较方便了就。</p><h2 id="如何正确选择合适自己的英文学习方法和材料"><a href="#如何正确选择合适自己的英文学习方法和材料" class="headerlink" title="如何正确选择合适自己的英文学习方法和材料"></a>如何正确选择合适自己的英文学习方法和材料</h2><h3 id="适用性原则"><a href="#适用性原则" class="headerlink" title="适用性原则"></a>适用性原则</h3><p>很简单，就是不要贪多，要找到适合自己的的学习材料。这一条是以下四条的基础，也是对于任何你所面临的材料的选择的基本准则。</p><h3 id="虚假性原则、"><a href="#虚假性原则、" class="headerlink" title="虚假性原则、"></a>虚假性原则、</h3><ul><li>基本就是要辨别信息真伪，对于宣传性较大的材料和方法要慎重考虑，虽不能说都是无用的、假的，但是这种情况的几率很大。</li><li>还有答者所说的标题为xx高过，之后又留下一堆链接的绝对是假的。</li><li>以及一些听起来就感觉邪门歪道、闻所未闻的方法（这个凭自己感觉和常识了）。</li><li>正规的教育机构也是可信的。</li></ul><h3 id="情绪机制原则、"><a href="#情绪机制原则、" class="headerlink" title="情绪机制原则、"></a>情绪机制原则、</h3><p>一句话“兴趣决定所做事情的大部分”</p><h3 id="循序渐进原则即i-1原则、"><a href="#循序渐进原则即i-1原则、" class="headerlink" title="循序渐进原则即i+1原则、"></a>循序渐进原则即i+1原则、</h3><p>对“i+1”理解是最重要的，i即你现在的水平，“+1”即你所需要学习的材料的难度在你现有水平上再加一点的难度，之后循序渐进。</p><h3 id="播讲类材料（原则）"><a href="#播讲类材料（原则）" class="headerlink" title="播讲类材料（原则）"></a>播讲类材料（原则）</h3><p>对于播讲类材料的选择发音是一个方面，讲解也是一个方面。讲解往往是最容易被我们忽视的一个方面，有老师讲解能够帮助你更加人们常说的VOA、BBC也不一定适合所有人，比如本人(这里的本人真的是我自己）就是听了一个大周的VOA慢速，最后凭心而论，自己问自己一句话：你都听了些什么。 我的回答是：好像啥也没有（非常尴尬了）。</p><p>在这里答主举了几个播讲类材料就是</p><blockquote><p>赖世雄老师的《美语从头学》<br>ESLPOD，据说在itunes上收听率是很高很高的<br>更多介绍参见这里：<br><a href="http://blackboyerking.blog.hexun.com/14063266_d.html" target="_blank" rel="external">http://blackboyerking.blog.hexun.com/14063266_d.html</a></p></blockquote><h4 id="听力口语中的中、高级的播讲类材料"><a href="#听力口语中的中、高级的播讲类材料" class="headerlink" title="听力口语中的中、高级的播讲类材料"></a>听力口语中的中、高级的播讲类材料</h4><p><strong>Englishpod<br>American Accent Training</strong></p><p>答主最后还强烈推荐了《文法俱乐部》这本书（我并没有看过）。</p><h2 id="什么才是搞定单词的好方法"><a href="#什么才是搞定单词的好方法" class="headerlink" title="什么才是搞定单词的好方法"></a>什么才是搞定单词的好方法</h2><p>一说英语单词怎么办，很多人的第一反应就是背单词，这样的方法很有用。拿着单词小册子，极其有毅力的同学可能能背得差不多。</p><p>答主将单词量分为四档：1~3k；4~6；6~8；1w以上。分别对应不同的方法，前两档主要是研读播讲类材料，后两档主要是通过透析法大量读原版书籍（四档伴以《文法俱乐部》一书）。</p><p>最后，以单词量分档绝对不是说单词量就是英语水平的分类标准（这和不是汉字认识得越多说明语文水平越好一样），避免死背单词，要注重语境即学习过程中的兴趣感、可理解性。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;在知乎回答集锦上看了&lt;strong&gt;恶魔的奶爸&lt;/strong&gt;的相关回答，本来是不准备做笔记什么的。但是后来觉得还是做一下吧，可能昨天看完，两天就忘了，做点笔记以后想看的时候比较方便了就。&lt;/p&gt;
-&lt;h2 id=&quot;如何正确选择合适自己的英文学习方法和材料&quot;&gt;&lt;a href
-      
-    
-    </summary>
-    
-      <category term="English" scheme="http://yoursite.com/categories/English/"/>
-    
-    
-      <category term="English" scheme="http://yoursite.com/tags/English/"/>
     
   </entry>
   
