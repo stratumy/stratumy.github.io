@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-07-23T02:28:22.879Z</updated>
+  <updated>2018-07-23T02:33:43.173Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,15 +21,15 @@
     <link href="http://yoursite.com/2018/07/23/java%E5%9F%BA%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94while%E5%92%8Cif/"/>
     <id>http://yoursite.com/2018/07/23/java基笔记——while和if/</id>
     <published>2018-07-23T01:43:41.000Z</published>
-    <updated>2018-07-23T02:28:22.879Z</updated>
+    <updated>2018-07-23T02:33:43.173Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="http://ouwsyml4w.bkt.clouddn.com/%25%28%25CSZ2FBOH1EX%25FUGV3B8W.png" alt="GitHub set up"><br>在这里面用while执行出来的是987，但是换成if输出的是9。一开始好奇为什么大括号里的 x/=10没有执行，问了别人才知道不是x/=10 没有执行，而是执行了没有输出。</p><p>但是如果不明确一个问题还是会想不通为什么用if输出的不是987，那就是if是一个判断结构，而while是一个循环结构。</p><blockquote><p>假设x=10,  if结构的话，首先执行第一行，输出“1”，第二行也会执行，x=1。这时候{}中的内容已经执行完毕，整个结构都执行完毕，所以不再输出，所以你只能看到一个输出结果，而不是第二行未执行。<br>而while结构的话，执行完第一行，输出“1”，执行第二行，x=1。这时候由于是循环结构，x=1&gt;0仍然符合条件，会继续执行{}中的内容，所以会输出“0.1”，同时x=0.01,…同理，一直输出0.001，如此循环下去，你能看到每一次的输出结果，才认为执行了第二行。</p></blockquote>]]></content>
+    <content type="html"><![CDATA[<p><img src="http://ouwsyml4w.bkt.clouddn.com/%25%28%25CSZ2FBOH1EX%25FUGV3B8W_LI.jpg" alt="GitHub set up"><br>在这里面用while执行出来的是987，但是换成if输出的是9。一开始好奇为什么大括号里的 x/=10没有执行，问了别人才知道不是x/=10 没有执行，而是执行了没有输出。</p><p>但是如果不明确一个问题还是会想不通为什么用if输出的不是987，那就是if是一个判断结构，而while是一个循环结构。</p><blockquote><p>假设x=10,  if结构的话，首先执行第一行，输出“1”，第二行也会执行，x=1。这时候{}中的内容已经执行完毕，整个结构都执行完毕，所以不再输出，所以你只能看到一个输出结果，而不是第二行未执行。<br>而while结构的话，执行完第一行，输出“1”，执行第二行，x=1。这时候由于是循环结构，x=1&gt;0仍然符合条件，会继续执行{}中的内容，所以会输出“0.1”，同时x=0.01,…同理，一直输出0.001，如此循环下去，你能看到每一次的输出结果，才认为执行了第二行。</p></blockquote>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;&lt;img src=&quot;http://ouwsyml4w.bkt.clouddn.com/%25%28%25CSZ2FBOH1EX%25FUGV3B8W.png&quot; alt=&quot;GitHub set up&quot;&gt;&lt;br&gt;在这里面用while执行出来的是987，但是换成if输出的是9。一
+        &lt;p&gt;&lt;img src=&quot;http://ouwsyml4w.bkt.clouddn.com/%25%28%25CSZ2FBOH1EX%25FUGV3B8W_LI.jpg&quot; alt=&quot;GitHub set up&quot;&gt;&lt;br&gt;在这里面用while执行出来的是987，但是换成if输出的是
       
     
     </summary>
