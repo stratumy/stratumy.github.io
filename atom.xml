@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-07-28T12:25:30.602Z</updated>
+  <updated>2018-07-28T12:28:33.342Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://yoursite.com/2018/07/28/Excel%E6%A0%BC%E5%BC%8F%E2%80%94%E2%80%94%E5%BF%AB%E9%80%9F%E5%A1%AB%E5%85%85-%E8%BD%AC%E5%88%B0/"/>
     <id>http://yoursite.com/2018/07/28/Excel格式——快速填充-转到/</id>
     <published>2018-07-28T12:17:33.000Z</published>
-    <updated>2018-07-28T12:25:30.602Z</updated>
+    <updated>2018-07-28T12:28:33.342Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="快速填充"><a href="#快速填充" class="headerlink" title="快速填充"></a>快速填充</h3><p>（主要用于智能填充，具有智能提取和合并数据的功能）</p><ul><li>快速填充选项（下拉后的小方块，然后选择快速填充）</li><li>功能区按钮（数据→快速填充）</li><li>快捷键（Ctrl+E）。<br>以上都要先将鼠标在右下角进行下拉，选中要填充的单元格。</li></ul><h4 id="提取字符（数字）"><a href="#提取字符（数字）" class="headerlink" title="提取字符（数字）"></a>提取字符（数字）</h4><p>在第一个单元格内输入要提取的内容，然后有三种方法进行快速填充。</p><pre><code>&gt; 选中第一个单元格，按住右下角黑色十字往下拉，点开小方块，选择快速填充。&gt; 选中第一个单元格，不按住黑色十字往下拉，按住单元格中间往下拉，选择功能区快速填充按钮。&gt; 选中第一个单元格，不按住黑色十字往下拉，按住单元格中间往下拉，按快捷键Ctrl+E。</code></pre><h4 id="智能提取和合并"><a href="#智能提取和合并" class="headerlink" title="智能提取和合并"></a>智能提取和合并</h4><p>例如提取带年月日出生年月：</p><p><img src="http://ouwsyml4w.bkt.clouddn.com/QEIQ17KE1%25AZUJIZSI%5BRT8F.png" alt="GitHub set up"><br>在第一个单元格内先输入文本格式的“1992年09月29日”（输文本格式是因为要把09中的0输出来，前面加’号）</p><p><img src="http://ouwsyml4w.bkt.clouddn.com/DBO%5D%5BM$L%25%5D$%25C137DV7TBC0.png" alt="GitHub set up"><br>因为要把身份证中的数字和年月日的文字合并，所以要在前面输入年月日的文字。</p><p>最后就可以用前面快速填充的方法操作。</p><p><strong>其他智能提取和合并的方法类似。</strong></p><h4 id="快速转到"><a href="#快速转到" class="headerlink" title="快速转到"></a>快速转到</h4><ul><li><p>快速选择一个单元格或一个区域：功能区，查找和选择，转到。</p></li><li><p>还可按条件选择，如只选空白区域:选中要查找和选择的总的区域，功能区，查找和选择，转到，定位条件，选择空白值。</p></li></ul>]]></content>
+    <content type="html"><![CDATA[<h3 id="快速填充"><a href="#快速填充" class="headerlink" title="快速填充"></a>快速填充</h3><p>（主要用于智能填充，具有智能提取和合并数据的功能）</p><ul><li>快速填充选项（下拉后的小方块，然后选择快速填充）</li><li>功能区按钮（数据→快速填充）</li><li>快捷键（Ctrl+E）。<br>以上都要先将鼠标在右下角进行下拉，选中要填充的单元格。</li></ul><h4 id="提取字符（数字）"><a href="#提取字符（数字）" class="headerlink" title="提取字符（数字）"></a>提取字符（数字）</h4><p>在第一个单元格内输入要提取的内容，然后有三种方法进行快速填充。</p><blockquote><p>选中第一个单元格，按住右下角黑色十字往下拉，点开小方块，选择快速填充。<br>选中第一个单元格，不按住黑色十字往下拉，按住单元格中间往下拉，选择功能区快速填充按钮。<br>选中第一个单元格，不按住黑色十字往下拉，按住单元格中间往下拉，按快捷键Ctrl+E。</p></blockquote><h4 id="智能提取和合并"><a href="#智能提取和合并" class="headerlink" title="智能提取和合并"></a>智能提取和合并</h4><p>例如提取带年月日出生年月：</p><p><img src="http://ouwsyml4w.bkt.clouddn.com/QEIQ17KE1%25AZUJIZSI%5BRT8F.png" alt="GitHub set up"></p><ul><li>在第一个单元格内先输入文本格式的“1992年09月29日”（输文本格式是因为要把09中的0输出来，前面加’号）</li></ul><p><img src="http://ouwsyml4w.bkt.clouddn.com/DBO%5D%5BM$L%25%5D$%25C137DV7TBC0.png" alt="GitHub set up"></p><ul><li><p>因为要把身份证中的数字和年月日的文字合并，所以要在前面输入年月日的文字。</p></li><li><p>最后就可以用前面快速填充的方法操作。</p></li></ul><p><strong>其他智能提取和合并的方法类似。</strong></p><h3 id="快速转到"><a href="#快速转到" class="headerlink" title="快速转到"></a>快速转到</h3><ul><li><p>快速选择一个单元格或一个区域：功能区，查找和选择，转到。</p></li><li><p>还可按条件选择，如只选空白区域:选中要查找和选择的总的区域，功能区，查找和选择，转到，定位条件，选择空白值。</p></li></ul>]]></content>
     
     <summary type="html">
     
