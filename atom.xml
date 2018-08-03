@@ -44,11 +44,11 @@
   </entry>
   
   <entry>
-    <title>jaExcle——填充柄快速输入数据</title>
+    <title>Excle——填充柄快速输入数据</title>
     <link href="http://yoursite.com/2018/07/26/Excle%E2%80%94%E2%80%94%E5%A1%AB%E5%85%85%E6%9F%84%E5%BF%AB%E9%80%9F%E8%BE%93%E5%85%A5%E6%95%B0%E6%8D%AE/"/>
     <id>http://yoursite.com/2018/07/26/Excle——填充柄快速输入数据/</id>
     <published>2018-07-26T12:29:29.000Z</published>
-    <updated>2018-07-26T12:46:37.860Z</updated>
+    <updated>2018-08-03T14:25:37.918Z</updated>
     
     <content type="html"><![CDATA[<ul><li><p>纯数字和纯文本填充都是复制</p></li><li><p>数字文本混合填充是序列增加</p></li><li><p>纯数字要想序列增加，按住Ctrl键再往下拉，引号文本（加单引号的数字）直接下拉就可以。</p></li><li><p>等序列增加（减少）：先在单元格中输入一个数字如1，接着在下面的一个单元格中输入9，这样就确定了序列之间差额为8，然后直接用鼠标往下拉就可以了。<br><img src="http://ouwsyml4w.bkt.clouddn.com/%60_Y%5B%60H%602UY%60IFQ%283%5DKNF8CU.png" alt="GitHub set up"></p></li><li><p>填充序列是带有格式地填充如字体颜色等</p></li><li><p>复制单元格，（数字和文本混合）往下拉之后右下角有一个小方块（自动填充选项），点开小方块，选择复制单元格。<br><img src="http://ouwsyml4w.bkt.clouddn.com/~MS%5D5B%28I%251~YCCIV6I1XQ~H.png" alt="GitHub set up"></p></li><li><p>仅填充格式和不带格式的填充步骤和复制单元格类似，然后选择对应的选择项。</p></li><li><p>日期、星期填充（系统自带的序列）没有特殊要求一般直接拖拽就可以。</p></li><li><p>以工作日填充，以月份填充，以年份填充都和上面的带格式不带格式复制的步骤类似，都用到右下角的小方块（自动填充选项）。</p></li><li><p>自定义序列。就是这个序列是自己定义好的，如希望输入的一行每个单元格中的内容分别是：上海 天津 广东 北京 ，这就需要自己定义好。定义好以后输入成都，拖拽右下角就会出现定义好的序列。</p></li></ul><blockquote><p>定义方法：文件，选项，高级，常规，编辑自定义列表，如图。</p></blockquote><p><img src="http://ouwsyml4w.bkt.clouddn.com/~@%5BE%28%7B%7BF5K9M@8WLYZK~XDQ.png" alt="GitHub set up"></p><ul><li>等差（比）序列。在单元格中输入数字1，然后点击开始选项卡中填充图标，选择序列，在序列选项卡中按要求进行选择操作。步长值就是等差（等比）序列的公差（公比）。<br><img src="http://ouwsyml4w.bkt.clouddn.com/4S%60PY9@%5B9C%28WE%5D%29%7B03F%5DF@I.png" alt="GitHub set up"></li></ul>]]></content>
     
