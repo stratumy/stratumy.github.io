@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-08-05T08:22:09.246Z</updated>
+  <updated>2018-11-01T12:18:03.751Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Java基础（二）</title>
+    <link href="http://yoursite.com/2018/11/01/Java%E5%9F%BA%E7%A1%80%EF%BC%88%E4%BA%8C%EF%BC%89/"/>
+    <id>http://yoursite.com/2018/11/01/Java基础（二）/</id>
+    <published>2018-11-01T12:07:22.000Z</published>
+    <updated>2018-11-01T12:18:03.751Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="类的特点"><a href="#类的特点" class="headerlink" title="类的特点"></a>类的特点</h3><p>封装性、继承性、多态性</p><ul><li><p>封装：<br>模块化————将属性和行为都封装在类中<br>信息隐蔽————将类的细节部分隐藏起来，用户只通过受保护的接口访问某个类</p></li><li><p>继承：父类和子类之间共享数据和方法</p></li></ul><p><img src="http://ouwsyml4w.bkt.clouddn.com/IMG_20181101_201410.jpg" alt="GitHub set up"></p><pre><code>* 优点： 更好地进行抽象和分类；        增强代码的重用率；        提高可维护性。</code></pre><ul><li>多态：不同的对象收到同一个消息（调用方法）可产生完全不同的效果，实现的细节则由接收对象自行决定。</li></ul><h3 id="面向对象程序分析和设计都围绕着"><a href="#面向对象程序分析和设计都围绕着" class="headerlink" title="面向对象程序分析和设计都围绕着"></a>面向对象程序分析和设计都围绕着</h3><ul><li><p>有哪些对象类</p></li><li><p>每个类有哪些属性、哪些方法</p></li><li><p>类之间的关系（继承、关联等）</p></li><li><p>对象之间发送消息（对象之间调用方法）</p></li></ul><p>Java程序的类型：<br>Application</p><p>Applet  使网页变成动态的，可交互的网页<br>import表示导入<br>extends JApplet表示继承 ·Applet或JApplet都可以<br>没有main()方法，有paint（）方法，表示如何绘制</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;类的特点&quot;&gt;&lt;a href=&quot;#类的特点&quot; class=&quot;headerlink&quot; title=&quot;类的特点&quot;&gt;&lt;/a&gt;类的特点&lt;/h3&gt;&lt;p&gt;封装性、继承性、多态性&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;封装：&lt;br&gt;模块化————将属性和行为都封装在类中&lt;br&gt;信息隐蔽
+      
+    
+    </summary>
+    
+      <category term="Java" scheme="http://yoursite.com/categories/Java/"/>
+    
+    
+      <category term="Java" scheme="http://yoursite.com/tags/Java/"/>
+    
+  </entry>
   
   <entry>
     <title>Excel快捷键（二）</title>
@@ -526,32 +553,6 @@
     
     
       <category term="Philosophy" scheme="http://yoursite.com/tags/Philosophy/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>AnLine——T系列区块链简述</title>
-    <link href="http://yoursite.com/2018/04/23/%E5%8C%BAAnLine%E2%80%94%E2%80%94T%E7%B3%BB%E5%88%97%E5%8C%BA%E5%9D%97%E9%93%BE%E7%AE%80%E8%BF%B0/"/>
-    <id>http://yoursite.com/2018/04/23/区AnLine——T系列区块链简述/</id>
-    <published>2018-04-23T14:18:06.000Z</published>
-    <updated>2018-04-26T13:46:27.995Z</updated>
-    
-    <content type="html"><![CDATA[<p>互联网保险公司众安保险已经对区块链技术进行了某些方面的应用，企业团队可以基于众安这个区块链云平台Anlink构建相关领域的应用，免去搭建底层技术的精力和成本。</p><p>而在安链云平台上存在着T系列区块链，T系列区块链主要包括钛合约、钛存证、钛空舱和钛阳四部分。它们分别对应的是电子签章、安全性、存储、唯一性(授权第三方)。</p><ul><li>钛合约</li></ul><p>钛合约可以说是电子签章，是签名阶段。它有四个特点：一是随时随地能够让客户进行签名，利用互联网为客户创造了便利，同时也为企业节省了人力成本。二是保证信息的真实性，通过区块链上的信息共享打通公安、银联、企业工商信息，从而保证客户填写的信息的真实性。三是对客户隐私的尊重，对用户所填文件加密，填写过程不接触用户原文。四是利用区块链的不可篡改性进行区块链存证，保护信息的安全性。</p><ul><li>钛存证</li></ul><p>钛存证是对区块链的典型应用，哈希指纹、去中心化、信息溯源。这些都是对信息安全的保护。</p><ul><li>钛空舱</li></ul><p>主要是存储方面的功能，对文件进行分布式存储，，并<strong>多节点备份还原 </strong>，适应灾备需求。信息访问安全，访问存储资源需通过服务网关授权访问，保护信息的安全性。</p><ul><li>钛阳</li></ul><p>强调的是文件信息的唯一性，链上账户统一管理，用户将属性鉴权授予第三方，之后在用户授权下，不同机构可以共享用户的鉴权信息。唯一的信息在链上却可以供很多人用，但是有一个问题还不太清楚，就是多方机构获取属性鉴权，那么用户的信息是否随时都能被查看呢？</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;互联网保险公司众安保险已经对区块链技术进行了某些方面的应用，企业团队可以基于众安这个区块链云平台Anlink构建相关领域的应用，免去搭建底层技术的精力和成本。&lt;/p&gt;
-&lt;p&gt;而在安链云平台上存在着T系列区块链，T系列区块链主要包括钛合约、钛存证、钛空舱和钛阳四部分。它们分别
-      
-    
-    </summary>
-    
-      <category term="Insurance" scheme="http://yoursite.com/categories/Insurance/"/>
-    
-    
-      <category term="Insurance" scheme="http://yoursite.com/tags/Insurance/"/>
     
   </entry>
   
